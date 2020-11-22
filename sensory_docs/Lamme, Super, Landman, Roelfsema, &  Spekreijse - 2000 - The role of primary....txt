@@ -1,0 +1,1681 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PII: S0042-6989(99)00243-6
+
+
+Vision Research 40 (2000) 1507–1521
+
+The role of primary visual cortex (V1) in visual awareness
+
+Victor A.F. Lamme a,b,*, Hans Supèr a,b, Rogier Landman a,b, Pieter R. Roelfsema a,
+Henk Spekreijse a
+
+a Department of Visual System Analysis, AMC, Graduate School of Neurosciences, Uni6ersity of Amsterdam, P.O. Box 12011,
+1100 AA Amsterdam, The Netherlands
+
+b The Netherlands Ophthalmic Research Institute, P.O. Box 12141, 1100 AC Amsterdam, The Netherlands
+
+Received 1 July 1999
+
+Abstract
+
+In the search for the neural correlate of visual awareness, much controversy exists about the role of primary visual cortex. Here,
+the neurophysiological data from V1 recordings in awake monkeys are examined in light of two general classes of models of visual
+awareness. In the first model type, visual awareness is seen as being mediated either by a particular set of areas or pathways, or
+alternatively by a specific set of neurons. In these models, the role of V1 seems rather limited, as the mere activity of V1 cells seems
+insufficient to mediate awareness. In the second model type, awareness is hypothesized to be mediated by a global mechanism, i.e.
+a specific kind of activity not linked to a particular area or cell type. Two separate versions of global models are discussed,
+synchronous oscillations and spike rate modulations. It is shown that V1 synchrony does not reflect perception but rather the
+horizontal connections between neurons, indicating that V1 synchrony cannot be a direct neural correlate of conscious percepts.
+However, the rate of spike discharges of V1 neurons is strongly modulated by perceptual context, and these modulations correlate
+very well with aspects of perceptual organization, visual awareness, and attention. If these modulations serve as a neural correlate
+of visual awareness, then V1 contributes to that neural correlate. Whether V1 plays a role in the neural correlate of visual
+awareness thus strongly depends on the way visual awareness is hypothesized to be implemented in the brain. © 2000 Elsevier
+Science Ltd. All rights reserved.
+
+Keywords: Visual awareness; Consciousness; Visual cortex; Neural correlate; Synchrony; Contextual modulation; Neuropsychology
+
+www.elsevier.com/locate/visres
+
+1. Introduction
+
+In the non-dualistic approach to consciousness, vi-
+sual awareness is mediated by the activity of nerve cells.
+The question that is specifically addressed in this paper,
+is to what extent the nerve cells in visual cortical area
+V1, or primary visual cortex, contribute to visual
+awareness. In discussing the role of V1 in visual aware-
+ness I will use the term visual awareness in the same
+sense as has been done by Francis Crick and Christof
+Koch. They have argued for a relatively loose definition
+of the term as long as so little is known about its
+nature, neural basis, function, etc. (Crick & Koch,
+1998a). Instead of precisely defining the term in psycho-
+logical terms and then finding its neural substrate, it
+
+will be better to have insights from psychology and
+neurobiology converge towards a unified concept of
+visual awareness (Churchland, 1997).
+
+Two important facts set the stage for the present
+discussion. First, visual awareness cannot be equated to
+visually guided behaviour as such. This becomes most
+evident in pathological conditions like blindsight. Here,
+patients suffering from a lesion to cortical area V1,
+report to be totally unaware of visual stimuli presented
+to their blind hemifield, yet are quite capable of guess-
+ing correctly about many stimulus attributes. They also
+seem little impaired in other visuo-motor behaviour
+such as grasping and eye movements to stimuli in the
+blind hemifield (Weiskrantz, 1996; Stoerig & Cowey,
+1997). Such almost total dissociations between visual
+awareness and visually guided behaviour have proven
+difficult to demonstrate in normal observers (Kolb &
+Braun, 1995). However, it is well known that also in
+normal observers, stimuli that are not consciously per-
+
+* Corresponding author. Tel.: +31-20-5665603; fax: +31-20-
+6916521.
+
+E-mail address: v.lamme@amc.uva.nl (V.A.F. Lamme)
+
+0042-6989/00/$ - see front matter © 2000 Elsevier Science Ltd. All rights reserved.
+PII: S 0 0 4 2 - 6 9 8 9 ( 9 9 ) 0 0 2 4 3 - 6
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–15211508
+
+ceived can modify subsequent behaviour, as has been
+shown in the many experiments on unconscious prim-
+ing (Holender, 1986; Merikle, 1992). Moreover, anyone
+will have had experiences like driving home while con-
+scious thoughts were engaged into something entirely
+different. Altogether this clearly implies that visual
+awareness can be dissociated from visually guided be-
+haviour as such; not all visually guided behaviour is
+conscious.
+
+Second, it is clear that not every stimulus that is
+picked up by the senses and leads to neural activity,
+leads to visual awareness. This is already evident from
+the first point, since unconscious visually guided be-
+haviour will also be mediated by neural structures. In
+classic text books one might still encounter the state-
+ment that cortical neurons provide us with the capabil-
+ity to ‘become aware’ of what the sensory organs tell
+us. We now know, however, that even when a stimulus
+evokes cortical activity we do not necessarily become
+aware of it. In blindsight, regions of cortex are acti-
+vated by stimuli of which the patients are not aware
+(Sahraie, Weiskrantz, Barbur, Simmons, Williams &
+Brammer, 1997; Stoerig, Kleinschmidt & Frahm, 1998).
+But also in normal observers, very interesting findings
+bearing on this issue were recently reported using a
+semantic priming paradigm. Subjects were shown
+masked letter strings of which they were not aware.
+These were followed by numbers which the subjects had
+to categorize as larger or smaller than five. A classic
+priming effect was observed in the sense that the invisi-
+ble letter strings (e.g. the word ‘three’) increased or
+decreased reaction times depending on whether they
+belonged to the same category as the subsequent target
+number. The striking observation was that neural activ-
+ity related to the unconscious prime could be traced (by
+EEG and fMRI methods) up to the motor cortex
+issuing the commands for the appropriate categoriza-
+tion response (either a left or a right hand lever pull). In
+other words, the unconscious stimulus evoked cortical
+neural activity in largely the same way as the conscious
+stimulus, with mostly quantitative differences (De-
+haene, Naccache, Le Clec’H, Koechlin, Mueller, De-
+haene-Lambertz, Van de Moortele & Le Bihan, 1998).
+
+These considerations bring us to an important pre-
+supposition that can be made in the study of the neural
+correlate of visual awareness: some neural activity is
+producing visual awareness while other neural activity
+is not. Apparently, some neural activity is ‘better’ in
+producing visual awareness than other neural activity
+and the obvious question thus is what activity falls in
+the one or in the other category. This question can be
+approached from two rather different perspectives. The
+first approach, that we will call the localizationist ap-
+proach, tries to answer this question in terms of neural
+structures; which parts of the brain (which subcortical
+nuclei, which cortical areas) are, and which are not
+
+capable of mediating visual awareness. Or more subtly,
+what types of neurons, or for example what layers of
+the cortex, mediate awareness. The second approach,
+that we will call the global approach, does not try to
+answer the question in terms of neural structures but
+rather in terms of specific forms of activity. These
+specific forms of activity may in principle be mediated
+by any neuron in any part of the brain. Whether the
+activity mediates awareness is not determined by what
+neurons show the activity but rather is an intrinsic
+property of the activity. Examples may be synchronous
+oscillations in the gamma range, bursts, or specific
+modulations of spike rate, as for example also shown in
+relation to attention. I will evaluate the role of V1 in
+visual awareness from these two rather different
+perspectives.
+
+2. The localizationist approach
+
+Before asking whether V1 belongs to the neural
+correlate of visual awareness (NCVA), one has to con-
+sider what can be meant by stating that the NCVA is or
+is not localized in a particular neural structure. The
+hallmark of the localizationist approach is the supposi-
+tion of the existence of what may be called ‘awareness
+dedicated’ neurons. The activity of such neurons, or
+groups of neurons, is both necessary and sufficient to
+produce awareness of at least some stimulus attribute.
+These neurons either reside in special parts of the brain,
+the awareness dedicated areas, or belong to a particular
+type, say pyramidal cells in some cortical layer. When
+these neurons fire we become aware of the visual events
+encoded by these neurons. Note, however, that this is
+the most extreme form of the localizationist approach,
+hardly ever encountered as such. Often it is mitigated in
+the sense that the activity of awareness dedicated neu-
+rons may lead to awareness (for example depending on
+their number, their spike rate, or the co-activation of
+some other awareness dedicated neurons), while the
+activity of non-awareness dedicated neurons will never
+lead to awareness. This is how V1 has been denied a
+role in visual awareness (Crick & Koch, 1995, 1998a;
+He, Cavanagh & Intriligator, 1996). It has been argued
+that the activity of V1 neurons in itself will never lead
+to visual awareness, or in other words that V1 does not
+possess any awareness dedicated neurons (see below).
+
+How can we decide whether V1 neurons are or are
+not dedicated to awareness? We will here address two
+methods, lesion studies and neurophysiological record-
+ings. The two methods have important caveats but
+nevertheless have provided us with the most useful data
+until now. The neuropsychological literature on lesions
+and their implications for perception and awareness is
+vast and has often been excellently reviewed (Farah,
+1990, 1997). Here, we will only review some data
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–1521 1509
+
+directly relevant to the issue of whether V1 is necessary
+and sufficient to mediate awareness. In dealing with
+neurophysiological evidence on the relation between V1
+activity and awareness we will mostly limit ourselves to
+data obtained in awake behaving monkeys, again fo-
+cussing on the question whether V1 activity is necessary
+and sufficient for visual awareness.
+
+2.1. Cortical lesions and the locus of 6isual awareness
+
+The lesion most relevant to the present discussion is
+of course one to V1 itself. When V1 is damaged,
+patients are phenomenally blind; they report ‘not seeing
+anything’, ‘to have no visual sensation whatsoever’,
+‘not being aware of anything happening on that side’,
+etc. However, when forced to guess about the location,
+form, size, direction of motion or other attributes of the
+stimuli that are presented to the blind hemifield, they
+often perform well above chance, a phenomenon called
+blindsight (Weiskrantz, 1996; Stoerig & Cowey, 1997).
+Also in the monkey a behavioural correlate of blind-
+sight is found; the animals report to ‘see’ no stimulus,
+yet are able to localize them in a forced choice setting
+(Cowey & Stoerig, 1995; Moore, Rodman, Repp &
+Gross, 1995). Moreover, monkeys with bilateral lesions
+to V1 are able to navigate in their environment, pick up
+food, and so on (Stoerig & Cowey, 1997). Apparently,
+in the absence of V1, vision can still guide behaviour,
+while bypassing visual awareness completely. Surpris-
+ingly, V1 seems necessary for awareness, but not for all
+visually guided behaviour (not to imply that in blind-
+sight only awareness is missing and all other visual
+behaviour is normal, see Farah, 1997).
+
+Two questions remain; first, does V1 only seem nec-
+essary, i.e. is the loss of awareness in fact caused by the
+V1 lesion depriving other parts of the brain, the ‘real’
+awareness dedicated areas, from their visual inputs;
+second, is V1 also sufficient for visual awareness? V1
+provides the input to the extrastriate areas and from
+there information is transferred either to the parietal
+cortex (the dorsal stream) or to the temporal cortex (the
+ventral stream). When V1 is lesioned in the monkey, no
+visual evoked activity can be recorded any more from
+the areas of the ventral pathway, in particular V2, V4,
+and IT (Roche-Miranda, Bender, Gross & Mishkin,
+1975; Payne, Lomber, Villa & Bullier, 1996; Nowak &
+Bullier, 1997). Neurons in area MT, which is part of the
+dorsal stream, however, remain responsive, with tuning
+characteristics that hardly differ (Rodman, Gross &
+Albright, 1989). These responses are probably mediated
+by the superior colliculus (SC), since a combined V1
+and SC lesion fully abolishes the responses (Rodman,
+Gross & Albright, 1990). Also in humans there is
+evidence that areas in the parietal lobe are active in
+blindsight patients, but whether this occurs also when
+stimuli are not consciously perceived is more controver-
+
+sial (Barbur, Watson, Frackowiak & Zeki, 1993; Sto-
+erig et al., 1998). An alternative explanation for the V1
+lesion resulting in a loss of awareness therefore could be
+that the awareness dedicated areas reside somewhere in
+the ventral pathway. Indeed some have argued specifi-
+cally for the hypothesis that the ventral stream mediates
+perception, while the dorsal pathway mediates visually
+guided behaviour in the absence of awareness. The
+hypothesis is further corroborated by the finding that
+strong dissociations exist between action and perception
+(Milner, 1995; Milner & Goodale, 1995; see also
+Goodale, this volume). To find out, however, whether
+ventral stream activity without V1 can mediate aware-
+ness, one would have to be able to activate areas in the
+ventral stream in the absence of V1, for example by
+microstimulation. To date, such experiments have not
+been performed.
+
+How about whether V1 is sufficient to produce visual
+awareness? Several experiments suggest that this is not
+the case. First, lesions to the right parietal lobe may
+cause neglect or extinction syndromes (Vallar & Perani,
+1986; LaBerge, 1997). This is a complicated family of
+disorders (that we will certainly not discuss in detail
+here), but a common feature is that either the part of
+the hemifield, or the parts of objects that are contralat-
+eral to the lesion are not attended to at all (neglect), or
+are ignored when ipsilateral stimuli are present (extinc-
+tion). The precise relation between attention and aware-
+ness is still unknown, but at least the two seem
+intimately related (Merikle & Joordens, 1997). In fact,
+neglect patients behave as if not aware of the contralat-
+eral stimuli (Farah, 1997). Remarkable correspondences
+furthermore exist with the blindsight phenomenon: also
+in neglect patients, forced choice or priming procedures
+can elicit responses to stimuli that are consciously
+ignored (Farah, 1997). Similarly, neglected stimuli may
+be able to bias responses to, or modify percepts of
+attended stimuli (Driver, Baylis & Rafal, 1992; Mattin-
+gley, Davis & Driver, 1997). Of course the parietal
+lesion in itself does not interrupt the flow of informa-
+tion from the retina to V1 (and from thereon to the
+ventral areas). Apparently, V1 (or ventral stream) activ-
+ity in itself is not sufficient for the stimuli to normally
+enter awareness in these patients. Second, Nakamura
+and Mishkin (1980) reported that a lesion to all non-vi-
+sual cortex in monkeys renders them ‘behaviourally
+blind’. The animals were unable to report about visual
+stimuli, and it was argued that visual information from
+the lesioned hemisphere could, in principle, have been
+reported by the animals using the intact connections
+from visual cortex to the contralateral hemisphere,
+where motor areas were intact. Evoked potentials could
+still be recorded from V1 in these animals, showing that
+the visual cortex was active. The finding is somewhat
+related to the report of a lesion to the extrastriate areas
+such that V1 seemed isolated from the rest of the brain
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–15211510
+
+(Bodis-Wollner, Atkin, Raab & Wolkstein, 1977). Here
+also, evoked potentials from V1 could be recorded, yet
+the patient was blind.
+
+All in all these findings, although some of them are
+difficult to interpret, suggest that visual information
+reaching V1 is in itself not sufficient to mediate visual
+awareness. V1 is thus not an awareness dedicated area
+in the strict sense. Note that in drawing this conclusion
+the ventral stream areas are pulled right away with V1
+into the same category of non-awareness dedicated
+areas, as both in neglect patients and in the non-visual
+cortex lesions, the ventral areas are still receiving infor-
+mation from V1. As it was already concluded that the
+dorsal stream areas cannot mediate visual awareness in
+isolation (see above), it thus finally appears, on the
+basis of neuropsychological data, that none of the
+visual areas, V1, extrastriate, dorsal or ventral stream,
+are both necessary and sufficient for visual awareness.
+
+2.2. Neurophysiology and the locus of 6isual awareness
+
+An second important way of investigating the NCVA
+is to estimate to what extent neural activity is correlated
+with perception. Unmistakenly, in V1, activity can be
+recorded in response to stimuli or stimulus aspects of
+which we are not aware. Examples exist both in the
+temporal as in the spatial frequency domain. High
+frequency (50 Hz) flickering luminance stimuli evoke
+responses from V1 in experimental animals (Wollman
+& Palmer, 1995) as well as in humans (Maier, Dagnelie,
+Spekreijse & Van Dijk, 1987). However, these stimuli
+are perceived as being of constant brightness, due to the
+fact that the perceptual flicker fusion frequency is well
+below 50 Hz. A somewhat related finding is made in
+relation to colour perception. When two isoluminant
+colors alternate at frequencies above 10 Hz, one non-
+flickering (fused) color is perceived that is a mixture of
+the two component hues. However, cells in the color
+blobs of V1 respond to the component flicker well
+above 10 Hz (Gur & Snodderly, 1997). Neurons in V1
+furthermore respond to grating patterns of very fine
+spatial scale (Foster, Gaska, Nagler & Pollen, 1985).
+This might even occur for gratings that are perceived as
+homogenous grey surfaces, as humans adapt to the
+orientation of those gratings even when this orientation
+is not perceived (He, Smallman & MacLeod, 1995; He
+et al., 1996). Thus in all these cases there is an aspect of
+the stimulus that is detected by the V1 neurons, yet that
+is not perceived.
+
+When random dot patterns are presented in stereo-
+scopic viewing, the pairing of dots presented to the two
+eyes results in a depth percept. For example, random
+dot pairs that are presented at a disparity that is
+different from surrounding dot pairs will readily pop-
+out from the surround. It has been shown that V1
+neurons are tuned to disparity, and this begs the ques-
+
+tion whether this tuning to disparity is related to depth
+perception or not. This was investigated using anti-cor-
+related dot pairs. Here the dot pairs presented to the
+two eyes have opposite colors (black versus white). As
+a result, depth perception is lost. However, V1 neurons
+seem to be equally well tuned for the disparity of
+anticorrelated as for the disparity of normal stereo
+random dot stimuli (Cumming & Parker, 1997). The V1
+tuning to disparity thus bears no direct relation to
+depth perception.
+
+When two differently oriented gratings are presented
+to the two eyes, the phenomenon of rivalry is observed;
+subjects perceive either the one or the other grating,
+and this percept typically changes every few seconds,
+while the stimulus remains unchanged. Two persons
+looking at the same rivalry stimulus at the same mo-
+ment in time might perceive different gratings, and in
+that sense, the rivalry phenomenon offers a window on
+‘subjective’ aspects of how a stimulus is perceived.
+Recordings were made in the visual cortex of monkeys
+that were asked to report their percepts by behavioural
+means. Many neurons in all areas recorded from (MT,
+V4, V2, V1) respond to the grating whether it is per-
+ceived or not. The response of a percentage of cells,
+however, is influenced by which of the two stimuli is
+perceived. This percentage is higher (ca 40%) in higher
+areas (MT and V4) than in lower areas (V1/V2: ca 20%)
+(Logothetis & Schall, 1989; Leopold & Logothetis,
+1996). Cells in infero-temporal cortex respond in an
+almost all or nothing fashion to stimuli that are per-
+ceived or suppressed in a flash-suppression rivalry
+paradigm (Sheinberg & Logothetis, 1997).
+
+In summary, many cells in V1 respond to stimulus
+attributes of which we are not aware, or in other words,
+many V1 cells are non-awareness dedicated neurons;
+their activity does not suffice for the percept of the
+‘invisible’ stimulus attributes they encode. Of course
+that does not exclude the possibility that other V1
+neurons do show activity that is correlated to percep-
+tion and whose activity might be sufficient for that
+percept. The rivalry experiments show that at least the
+activity of a small proportion of the cells correlates
+with what stimulus is perceived. Also, much of the
+activity of V1 neurons under normal stimulus condi-
+tions is obviously in response to stimulus attributes that
+we do perceive. The question that still remains to be
+solved is whether this activity is sufficient for visual
+awareness. Until proven otherwise, the most straight-
+forward conclusion is that V1 does not possess any
+awareness dedicated neurons.
+
+3. A global approach to visual awareness; two
+candidate substrates
+
+In opposition to the localizationist approach to the
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–1521 1511
+
+NCVA one finds the global approach. The hallmark
+of this approach is that the NCVA is not linked to a
+particular neural structure, but rather to a specific
+kind of neural activity. In principle this NCVA re-
+lated neural activity can be mediated by any neural
+structure, depending on the actual content of aware-
+ness. Also the global approaches are hardly ever ad-
+vocated in the most extreme form; usually the neural
+structures mediating the NCVA related activity are
+somehow restricted, for example to the cerebral cor-
+tex. I will here investigate the role of V1 activity with
+respect to two kinds of candidate global NCVA’s,
+synchronous oscillations and amplitude modulations.
+
+3.1. Neuronal synchrony
+
+Synchronous oscillatory neural activity in the
+gamma range (ca 30–80 Hz) has been proposed as a
+neural correlate of conscious perceptual organization
+(Von der Malsburg & Schneider, 1986; Singer &
+Gray, 1995), or even consciousness in general (Crick,
+1994). Synchrony would be a typical example of a
+global NCVA; at some time neurons may synchronize
+their activity, while at some other time may be desyn-
+chronized, depending on what neurons form dynamic
+assemblies to represent particular perceptual or motor
+output events. The representation of a specific con-
+scious event would be at the level of the neuronal
+assembly (neurons linked by synchrony), not so much
+at the level of the individual neurons themselves
+(Edelman, 1992). In the realm of visual perception,
+individual neurons would only represent individual
+features of a visual scene, while the synchrony would
+represent which features group together to form ob-
+jects.
+
+In support of the hypothesis is that gamma type
+activity is suppressed under anaesthesia (Kulli &
+Koch, 1991), and increases under conditions of per-
+ceptual or attentional load (Tallon-Baudry &
+Bertrand, 1999). However, coherent gamma oscilla-
+tions have been found in the anaesthetized animal as
+well (Eckhorn, Bauer, Jordan, Brosch, Kruse, Munk
+& Reitboeck, 1988; Gray, Engel, König & Singer,
+1989; Engel, König & Singer, 1991; Singer & Gray,
+1995). Synchrony in the gamma range also increases
+when the reticular formation is stimulated (Munk,
+Roelfsema, König, Engel & Singer, 1996). Gamma
+activity may thus represent a general state of arousal,
+not directly linked to consciousness. Moreover, it is
+important to distinguish between gamma range oscil-
+lations and synchrony per se. High frequency oscilla-
+tions may primarily serve to facilitate the occurrence
+of synchrony, particularly over larger distances
+(König, Engel & Singer, 1995). Synchrony may reflect
+neuronal group formation also in the absence of oscil-
+latory activity, and it has been proposed that coherent
+
+activity at very different time scales may in fact sup-
+port the same goal (Roelfsema & Singer, 1998).
+
+What has been studied mostly is the relation be-
+tween synchrony and grouping criteria of perceptual
+organization (Eckhorn et al., 1988; Gray et al., 1989;
+Engel et al., 1991; Freiwald, Kreiter & Singer, 1995;
+Kreiter & Singer, 1996; Livingstone, 1996; Brosch,
+Bauer & Eckhorn, 1997). For example, it was found
+that line segments of the same orientation cause cells
+in V1 to synchronize their activity more than line
+segments of dissimilar orientation (Ts’o, Gilbert &
+Wiesel, 1986; Engel et al., 1991; Livingstone, 1996).
+At the same time it is known that similarity is a
+strong grouping factor in perceptual organization. In
+this way, it has been established that synchrony corre-
+lates with the grouping criteria of connectedness,
+proximity, similarity (common orientation, common
+direction of motion), and collinearity (Singer & Gray,
+1995). What has been less well studied is the relation
+between synchrony and whether the percepts were
+processed consciously, or inside the focus of attention,
+or for example preattentively etc. In fact, many of the
+experiments were performed on anaesthetized animals,
+yet a correlate between synchrony and the grouping
+criteria was still found. An important exception is the
+study of Fries, Roelfsema, Engel, König and Singer
+(1997); here it was found that synchrony in the awake
+cat depended strongly on the dominating percept in a
+binocular rivalry paradigm.
+
+An important issue is whether synchrony indeed rep-
+resents the grouping of features in perceptual organiza-
+tion, or rather reflects the direct anatomical connections
+between neurons that lay the foundations for such
+groupings. This is a subtle but important difference that
+we will explain somewhat further. In Fig. 1, putative
+receptive fields of two low level, say V1, neurons are
+shown, that are stimulated with bars. In the leftmost
+constellation (a) the two bars belong to the same obejct,
+while in the middle constellation; (b) the two bars
+belong to two different objects that segregate from each
+other. If synchrony between these neurons would repre-
+sent perceptual grouping, a cross-correlation of the
+spike discharges of the two neurons would have to
+show strong differences; a higher peak in the correlo-
+gram for the homogenous texture stimulus than for the
+segregating stimulus (see hypothetical correlograms
+next to label ‘perception’). However, we also know that
+in V1, cells are connected via horizontal fibers that
+preferentially exist between cells with similar orienta-
+tion tuning (Ts’o et al., 1986; Gilbert & Wiesel 1989;
+Malach, Amir, Harel & Grinvald, 1993). On the basis
+of this alone, we also expect a similar difference in
+synchrony (see correlograms next to label ‘horizontal
+connections’). The comparison between (a) and (b)
+therefore does not discriminate between whether syn-
+chrony reflects perceptual organization or intrinsic V1
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–15211512
+
+connections. A comparison between stimuli (b) and (c)
+however will discriminate between the two alternatives.
+Here different outcomes in synchrony are expected
+depending on whether synchrony represents perceptual
+organization or anatomical connections. From the
+point of view of horizontal connections, low synchrony
+is expected for both stimuli, since there is a consider-
+able orientation difference between the two stimuli. But
+as the two line segments belong to a perceptual group
+in (c), higher synchrony is expected in (c) than in (b)
+from the perceptual point of view.
+
+This exact experiment has never been performed, but
+we did something similar. Synchrony between V1 neu-
+rons was studied while monkeys were viewing oriented
+texture displays like the ones shown in Fig. 2(a). The
+animals reported segregation (i.e. identified the figure
+from background) both for the 90 and the 20° orienta-
+tion difference (and of course not for the 0° difference);
+figures were detected in 89, 89, and 0% of the presenta-
+tions, respectively. However, synchrony recorded be-
+tween neurons on either side of the boundary between
+figure and background reflected the orientation differ-
+ence rather than the percept, i.e. was high for the 0 and
+20° orientation difference and lower for the 90° differ-
+ence (Fig. 2b). Also for textures segregating on the
+basis of motion differences no difference in synchrony
+
+was found between segregating or non-segregating stim-
+uli (Lamme & Spekreijse, 1998a). These results clearly
+demonstrate that the synchrony between neurons in V1
+reflect the horizontal connections between cells, irre-
+spective of the outcome of the segregation process.
+
+Also in the early studies using cross-correlation anal-
+ysis of neuronal activity, synchrony was mainly re-
+garded as reflecting the anatomical connections
+between recording sites (Ts’o et al., 1986; Gilbert &
+Wiesel, 1989; Krüger & Aiple, 1989). Experiments on
+the stimulus specificity of neuronal synchrony suggested
+that in addition to representing anatomical connections,
+synchrony was reflecting dynamical associations be-
+tween neurons that represented features that were per-
+ceptually combined into coherent objects (Gray et al.,
+1989; Engel et al., 1991; Freiwald et al., 1995; Kreiter &
+Singer, 1996; Livingstone, 1996; Brosch et al., 1997).
+Most well known is the ‘long bar’ experiment. In this
+experiment, it was found that synchronous oscillations
+between two recording sites were stronger when a single
+bar co-stimulated the two sites than when two sepa-
+rately moving bars stimulated the sites. The synchrony
+was weakest when the two separate bars moved in
+opposite directions (Gray et al., 1989). Closely related is
+the experiment of Brosch et al. (1997), using moving
+gratings instead of bars. But also in these experiments
+
+Fig. 1. Three stimuli that can dissociate effects on synchrony. Line segments stimulate two receptive fields (RF’s, dotted circles). In stimulus (a)
+the RF’s are stimulated with identical orientations, while in stimuli (b) and (c) the RF’s are stimulated with different orientations. When synchrony
+reflects horizontal connections, that connect cells with similar orientation tuning, cross-correlograms are low for (b) and (c), and high for (a).
+However, when synchrony transcends the local information, and reflects the perceptual interpretation of the scene, synchrony should be high for
+both (a) and (c), where the line segment group into a homogenous texture, and low for (b), where the line segments belong to different parts of
+the scene. cc=cross correlation.
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–1521 1513
+
+Fig. 2. Synchrony does not, while amplitude modulations do reflect figure–ground segregation in a cue-invariant way. (a) Three orientation
+differences between a central square and its surround, where both the 20 and the 90° orientation difference result in figure–ground segregation.
+(b) Synchrony between neurons (whose RF’s are shown in (a), is only lower for the 90° orientation difference, and equally high for the 20° as for
+the 0° (no segregation) condition. Synchrony thus reflects orientation differences rather than segregation. White parts of histograms give the SEM
+values. (c) Response amplitudes for the cells with RF1. Both the 20 and the 90° orientation difference give an enhanced response compared with
+the 0° diference (difference shown as gray shading), signalling the figure–ground segregation rather than the orientation difference.
+
+there is a confound between local (horizontal) connec-
+tions as such and perceptual grouping. The results can
+equally well be explained on the basis of connections
+that depend on distance and orientation selectivity as
+on the basis of Gestalt laws of grouping: when a long
+continuous bar is moved, activity of sites representing
+the bar can spread through local connections from the
+one end to the other. When two bars move, separated
+by some gap, the spreading is obstructed by having to
+transcend a corresponding piece of cortex that is not
+active. A reduction of synchrony is observed (Gray et
+al., 1989). When the two bars move in opposite direc-
+tions, the distance between the two bars is on average
+even larger, and synchrony reduces further. This inter-
+pretation is corroborated by the grating experiment of
+Brosch et al. (1997). Here, synchrony is reduced when a
+gap is introduced between two grating fields moving in
+
+the same direction, but not further reduced when the
+two gratings are also moving in opposite directions
+(which in this case, contrary to the moving bar, does
+not on average increase the area of intervening not
+active cortex). Sadly, the complementary experiment of
+having the two gratings move in opposite directions
+without a gap was not performed.
+
+There is also other evidence showing that synchrony
+depends largely on the architecture of direct cortico-
+cortical connections (Ts’o et al., 1986; Roelfsema, En-
+gel, König & Singer, 1997). For example, in strabismic
+cats there is a reduced synchronization between neu-
+rons dominated by different eyes (König, Engel, Löwel
+& Singer, 1993; Roelfsema, König, Engel, Sireteanu &
+Singer, 1994), which is accompanied by a reduction of
+connections between different ocular dominance
+columns (Löwel & Singer, 1992). That synchrony
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–15211514
+
+reflects the dominant percept in binocular rivalry (Fries
+et al., 1997), cannot easily be explained on the basis of
+intrinsic V1 connections.
+
+With that one exception, the most parsimonious in-
+terpretation of almost all the data seems to be that
+synchrony in V1 reflects the anatomical connections
+within V1. Neurons are connected on the basis of
+distance, orientation tuning and collinearity. Only these
+factors influence synchrony, irrespective of whether the
+grouping criteria of proximity, similarity and good
+continuation contribute to the perceptual organization
+of the scene. One could argue that these connections,
+and thus the synchrony, lay the initial foundations for
+the process of perceptual organization, on which higher
+areas then could further elaborate. This implies, how-
+ever, that synchrony in V1 does not represent the final
+outcome of the process of perceptual organization; in
+other words, the ‘results’ of these further elaborations
+are not fed back to V1 to update the V1 synchrony. In
+conclusion, there is very little support for the hypothe-
+sis that V1 synchrony is part of the NCVA.
+
+3.2. Modulations of firing rate
+
+A second type of global NCVA would be that visual
+awareness is expressed in the rate of firing of action
+potentials of neurons. This would be a correlate of
+awareness that has many similarities with the correlate
+of visual attention. It has been shown that in many
+areas of the visual cortex, including V1, the rate of
+firing is influenced by whether stimuli are attended to
+or not (Desimone & Duncan, 1995). This is now gener-
+ally accepted as the neural correlate of attention. Atten-
+tion and awareness are intimately interrelated,
+suggesting that the neural correlates of both may over-
+lap substantially (Posner, 1994; Block, 1996). But aside
+from that, the correlate of awareness as such might
+equally well be a modulation of firing rate. In other
+words, whether stimuli reach awareness or not modu-
+lates the rate of firing of cells responding to those
+stimuli. To what extent is there evidence that V1 activ-
+ity is indeed a mixture of activity that reflects non-
+awareness related processing and activity that have a
+relation to perception?
+
+In contextual modulation, the responses of a cell to a
+stimulus in its receptive field are influenced by sur-
+rounding stimuli. These surrounding stimuli are by
+themselves not capable of stimulating the cell, but may
+modulate its firing rate when a receptive field (RF)
+stimulus is present. The surrounding stimuli may either
+inhibit or enhance responses to the RF stimulus, de-
+pending on the relative characteristics of both RF and
+surround stimulus. This has been reviewed elsewhere
+(Allman, Miezin & McGuiness, 1985; Lamme &
+Spekreijse, 2000). For the present discussion two as-
+pects of contextual modulation are important; its close
+relation to perceptual organization and its timing.
+
+It appears that contextual modulation is not merely a
+type of ‘surround inhibition’ but expresses the percep-
+tual interpretation of the elements that make up a
+scene. Contextual modulation in V1 expresses percep-
+tual pop-out (Knierim & Van Essen, 1992; Kastner,
+Nothdurft & Pigarev, 1997; Nothdurft, Gallant & Van
+Essen, 1999). Moreover, more global factors that deter-
+mine perceptual grouping and segregation of line seg-
+ments, like for example shown in Fig. 1, likewise
+influence contextual modulation effects in V1 (Kapadia,
+Ito, Gilbert & Westheimer, 1995; Polat, Mizobe, Pettet,
+Kasamatsu & Norcia, 1998). Figure–ground segrega-
+tion, i.e. whether line segments are interpreted as be-
+longing to the figure surface or the background surface,
+is expressed under a variety of circumstances (Lamme,
+1995; Zipser, Lamme & Schiller, 1996; Lee, Mumford,
+Romero & Lamme, 1998). Figures can segregate from
+background on the basis of differences in orientation
+(Fig. 2), motion, disparity, colour, or luminance, and
+contextual modulation expresses figure–ground segre-
+gation for all these cues (Lamme, 1995; Zipser et al.,
+1996). Fig. 2(c) shows how contextual modulation sig-
+nals the figure–ground relationships irrespective of the
+orientation difference; both the 90 and the 20° orienta-
+tion difference evoke a similar amount of modulation
+(where synchrony only ‘signals’ segregation for the 90°
+orientation difference). Changing the luminance or
+colour of the background of a coloured square induces
+a change in the perceived brightness or colour of that
+(unchanged) square. This is also reflected in the modu-
+lation of V1 responses (Rossi, Rittenhouse & Paradiso,
+1996; MacEvoy & Paradiso, 1999; Wachtler, Sejnowski
+& Albright, 1999). In summary, thus, it appears that
+contextual modulation in V1 expresses the perceptual
+interpretation of elements in a scene for a wide variety
+of conditions.
+
+Contextual modulation takes a wide range of times
+to express itself. Once the cells start to respond, the
+effects can either occur immediately or only after some
+latency. The latency of the effects seems to depend on
+the complexity of the computations underlying the
+modulation and the spatial extent of the part of the
+scene that is taken into consideration : the suppressive
+effect that arises from presenting a stimulus in the
+immediate surround of a receptive field stimulus takes
+very short to develop. No latency difference (Müller,
+Krauskopf & Lennie, 1997), or a latency difference of
+only 7 ms have been reported (Knierim & Van Essen,
+1992). Orientation specific effects, i.e. comparing the
+effect of an identical background with that of a orthog-
+onal background producing perceptual pop-out, take
+about 20 ms (Knierim & Van Essen, 1992).
+
+Lamme, Rodriguez and Spekreijse (1999) studied
+how various aspects of a textured figure–ground stimu-
+lus are expressed in the responses of V1 cells at differ-
+ent times. This is shown in Fig. 3. At 30 ms after
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–1521 1515
+
+stimulus onset the response starts. By comparing re-
+sponses to textures of different orientations, it can be
+shown that after 50 ms, orientation tuning (for textures)
+is expressed by the cells. At around 80 ms, response
+components emerge that are specifically generated by
+the figure–ground boundary, consisting of abutting
+terminated line segments of orthogonal orientation. At
+100 ms, an enhancement of the response is found that
+signals the figure–ground relationship of the surface
+features that cover the RF. At even later moments in
+time, neuronal responses in V1 express whether a stimu-
+lus is attended to or not: Landman, Lamme and
+Spekreijse (2000) showed that when multiple figures
+segregating from background are shown, the initial
+
+phase of the figure–ground modulation did not depend
+on the number of objects, while at later moments in
+time (\200 ms) a relation was found between the
+strength of modulation and the number of objects in
+the scene. This suggests that the initial part of the
+modulation is purely preattentive while at later stages
+attentive components might emerge. This is line with
+earlier experiments showing attentional modulation at
+235 ms (Fig. 3b, Roelfsema, Lamme & Spekreijse,
+1998).
+
+V1 neurons thus express different aspects of visual
+processing at different times, ranging from simple re-
+ceptive field based processing up to aspects of fully
+evolved perceptual organization (see also Roelfsema et
+
+Fig. 3. V1 cells are sequentially selective for various aspects of a stimulus. (a) Comparing responses of V1 cells to differently oriented textures
+(right coulmn, top graph, gray shading indicates difference) shows that cells are selective for orientation of textures at 55 ms (arrow indicates
+moment of first significant difference). The same cells are selective for the boundary between figure and ground (second graph from top) at 80 ms,
+and show an enhanced response when the RF covers the figure surface compared with the background surface at 100 ms (Lamme et al., 1999).
+(b) V1 cells show an enhanced response when they respond to an attended curve passing through the receptive field (RF), compared with a
+non-attended curve. This difference occurs at 235 ms after stimulus onset (Roelfsema et al., 1998).
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–15211516
+
+Fig. 4. (a) Orthogonal textures presented to the two eyes, each containing a figure on a background yield a cyclopean percept of a homogenous
+texture, with no visible figure (at excentric fixation). (b) When the figure is present in one eye only, the cyclopean percept is that of a figure on
+a background. The stimulus in (b) yields figure–ground related contextual modulation, the stimulus in (a) does not (Zipser et al., 1996).
+
+al., this volume). Could it be that at some time, these
+neurons even express visual awareness? There are sev-
+eral converging pieces of evidence that indicate that this
+might very well be the case. First, there are stimulus
+manipulations that have strong effects on whether stim-
+uli are perceived or not, and these seem to effect late
+onset modulations in particular. We did an experiment
+that was inspired by the stimuli used by Kolb and
+Braun to demonstrate blindsight in normal observers
+(Kolb & Braun, 1995). When two figure–ground dis-
+plays with orthogonal orientations are presented each
+to one of the two eyes, the fused Cyclopean percept is
+that of a homogenous texture with no figure present in
+it (Fig. 4a). When one eye is presented with a homoge-
+nous texture and the other eye with a figure–ground
+display, the figure is visible (Fig. 4b). The latter stimu-
+lus evokes contextual modulation signalling the pres-
+ence of the figure, but the former stimulus does not
+(Zipser et al., 1996); so while the figures are present in
+either eye alone the modulation signals the percept (no
+figure present) rather than this information. These find-
+ings may furthermore be associated with the results of
+Bridgeman (1980). He recorded from V1 neurons in
+awake monkeys while presenting stimuli that were
+masked using meta-contrast masking. The animals re-
+ported the masking behaviourally. The early responses
+of the V1 neurons (up to 110 ms) were not affected by
+the masking, but late responses (after 110 ms) were
+
+inhibited by the masking, signalling the reduced visibil-
+ity of the stimuli covering the receptive field (Bridge-
+man, 1980). A third example comes from the random
+dot patterns that evoke a depth percept when lumi-
+nance correlated dot pairs are used, while no depth
+percept is evoked when anti-correlated dots are used.
+V1 neurons are equally well tuned to both of them,
+suggesting no role of the V1 depth responses in depth
+perception. However, when response amplitude is con-
+sidered, it appears that the correlated dots produce
+about twice the response of the anti-correlated dots
+(Cumming & Parker, 1997). Depth perception rather
+than disparity as such thus has an influence on the V1
+responses.
+
+Of course the above examples are still manipulations
+of the stimuli rather than of visual awareness. A (rather
+crude) way of manipulating awareness is anaesthesia.
+While receptive field tuning properties of V1 neurons
+are little or not affected by anaesthesia (Schiller, Finlay
+& Volman, 1976; Snodderly & Gur, 1995), contextual
+modulation is affected by anaesthesia to different de-
+grees. Short latency modulations, evoked by surround
+stimuli that may exert their effects through local or
+horizontal connections within V1, can be recorded in
+awake as well as anaesthetized animals (Knierim & Van
+Essen, 1992; Kapadia et al., 1995; Kastner et al., 1997;
+Polat et al., 1998). However, modulations reflecting
+perceptual pop-out are stronger in awake than in anaes-
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–1521 1517
+
+thetized animals (Nothdurft et al., 1999). Finally, con-
+textual modulation related to figure–ground segrega-
+tion is fully suppressed by anaesthesia (Lamme, Supèr
+& Spekreijse, 1998b). The latter type of modulation
+seems to depend strongly on feedback from extrastriate
+areas (Lamme, Zipser & Spekreijse, 1998c). It seems as
+if the longer information has to ‘travel’ over the net-
+work of local, horizontal, and feedback connections to
+evoke the modulatory effects, the more susceptible
+these effects are to anaesthesia.
+
+Anaesthesia will not only affect visual awareness but
+probably many other processes as well. A more direct
+link to visual awareness would only be established
+when a trial by trial comparison of perceived versus not
+perceived stimuli, that are otherwise identical, is per-
+formed. This was recently done by using figure–ground
+displays like shown in Fig. 2. Contextual modulation
+was recorded in monkeys that had to report whether
+the figure was perceived or not. This was done in a
+manner very similar to the one used to demonstrate
+that monkeys do not ‘perceive’ stimuli in blindsight
+(Moore et al., 1995). Catch-trials, in which no figure
+was present at all, were presented in combination with
+figure-present trials, where a figure appeared at one of
+three possible locations. The animal’s task was to indi-
+cate the position of the figure, when present, by making
+a saccadic eye movement towards it. On catch-trials,
+the animal was rewarded when it remained fixating.
+The key feature of the paradigm is that when for some
+reason the figure in a figure-present trial is not per-
+ceived, the monkey will signal this by maintaining
+fixation. Neural responses recorded during figure-
+present trials that resulted in a correct saccade were
+compared with responses from figure-present trials that
+were classified as figure-absent (catch-trial) by the mon-
+key. Figure–ground related contextual modulation was
+strongly reduced or absent in the case the monkey did
+not perceive the figure (Supèr, Lamme & Spekreijse,
+1999). In other words, contextual modulation only
+reflects the figure–ground relationships when these are
+(consciously) perceived by the animal.
+
+Further evidence in the same direction comes from
+experiments that show that V1 responses are influenced
+by how ambiguous stimuli are perceived. As already
+mentioned, some 20% of V1/V2 cells are influenced by
+perceptual switches in binocular rivalry (Leopold &
+Logothetis, 1996). Likewise, it was shown that the
+responses of V1 neurons (Grunewald, Bradley & An-
+dersen, 1999), just like MT neurons (Bradley, Chang &
+Andersen, 1998), are influenced by the perceived direc-
+tion of rotation of a random dot cylinder whose rota-
+tion, clockwise or counter-clockwise, is perceptually
+ambiguous.
+
+In summary, the responses of V1 cells indeed appear
+to be a mixture of activity that is not related to
+perception, and activity that correlates with aspects of
+
+perceptual organization, attention, and visual aware-
+ness. Early response components are mostly related to
+receptive field based processing, far dissociated from
+perception, while late components of the V1 responses
+are correlated with conscious perceptual interpretations
+of the scene.
+
+4. Conclusions
+
+Here we will summarize several conclusions that have
+been drawn above on the basis of the neuropsychologi-
+cal, neurophysiological and other data.
+
+1. V1 is not an awareness dedicated area
+
+It is evident that V1 is not an awareness dedicated
+area in the sense that the activity of its neurons is
+necessary and sufficient to produce a conscious percept.
+This conclusion can be drawn from neuropsychological
+as well as from neurophysiological data; In other
+words, when V1 neurons fire we do not automatically
+become aware of the information that is conveyed by
+these neurons. So within the framework of the localiza-
+tionist approach to the NCVA, the role for V1 seems
+rather limited.
+
+In this respect, however, V1 seems hardly different
+from the other visual areas. The neuropsychological
+findings discussed above showed that in fact none of
+the visual areas, be it V1, the extrastriate areas, or any
+other high level area in the dorsal or ventral stream
+alone is sufficient to produce visual awareness.
+
+2. Synchrony in V1 is not a correlate of perceptual
+organization
+
+To date, there is still very little evidence that syn-
+chrony in V1 represents the final ‘outcome’ of the
+process of perceptual organization, let alone whether
+we are aware of this outcome. Many experiments show
+a relation between synchrony and rules of perceptual
+organization, but without dissociating it from a relation
+between synchrony and intrinsic V1 connections. Some
+results suggest that synchony might go beyond intrinsic
+V1 connections and signal what is perceived (Fries et
+al., 1997), while other results suggest the very opposite,
+that synchrony in V1 reflect the intrinsic connections
+irrespective of how a scene is perceived (Lamme &
+Spekreijse, 1998a).
+
+3. V1 neurons express different aspects of 6isual pro-
+cessing at different times
+
+The activity of V1 cells represents local receptive field
+based processing at short latencies after stimulus onset,
+but at longer latencies represents various aspects of
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–15211518
+
+perceptual organization, which we call contextual mod-
+ulation. Finally, V1 activity may reflect whether stimuli
+are attended to or not. Also in this respect, V1 seems to
+be hardly different from other cortical areas. In parietal
+cortex, for example, it is found that neurons may
+represent aspects of the visual stimulus as well as
+activity related to saccadic eye movements targeted at
+these stimuli, and whether stimuli are attended to or
+not (Colby, Duhamel & Goldberg, 1996). This may not
+be considered very surprising for a cortical region that
+is clearly situated between sensory and executive space
+and that is known to play an important role in the
+transformation of information from retinal to motor
+coordinate frames (Andersen, Snyder, Li & Stricanne,
+1993; Andersen, Snyder, Bradley & Xing, 1997; Colby,
+1998). However, also at the other extreme end of the
+brain, in primary motor cortex, it is found that early
+responses in a sensorimotor task are reflecting the
+sensory events, while late responses are mostly reflect-
+ing the motor commands that conclude the task. At
+intermediate latencies, responses are reflecting interme-
+diate stages of processing related to the specific sensori-
+motor mapping rules that apply to the task (Zhang,
+Riehle, Requin & Kornblum, 1997). In the frontal eye
+fields of prefrontal cortex, similar findings have been
+reported with respect to eye movements. Different types
+of neurons have been identified; visual neurons, and
+pre-saccade neurons (Schall & Thompson, 1999). Visual
+neurons may reflect different stages of the visuo-motor
+transformation at different moments in time. In a task
+where monkeys had to select the odd item amongst a
+set of distractors, the visual response up to 120 ms did
+not differentiate between target and distractors. After
+120–150 ms, however, the visual neurons had a much
+larger response to targets than to distractors (Thomp-
+son, Hanes, Bichot & Schall, 1996; Schall & Bichot,
+1998).
+
+That neurons at one moment may be engaged in
+sensory processing while at another moment may be
+involved in the neural processes generating a be-
+havioural response has an important consequence for
+the search for the NCVA; when some part of the
+activity of an area or even a cell has been proven not to
+correlate with awareness this never logically warrants
+the conclusion that the cell is not part of the NCVA. It
+might very well be, just at some other moment in time.
+To exclude a neuron from the NCVA it would have to
+be shown that it is not at any time correlated with
+awareness, in any kind of visual task. This is obviously
+an impossible enterprise.
+
+4. Some part of V1 acti6ity reflects 6isual awareness
+
+We have seen that a percentage of V1 cells may
+reflect the reported percept in rivalry experiments or in
+experiments using ambiguous motion stimuli. Also,
+
+contextual modulation for figure–ground displays only
+occurs when the animal reports to be aware of the
+figure. There are some noteworthy similarities in this
+respect with neural correlates of visual awareness that
+have been recorded in prefrontal cortex. Neural activa-
+tion in the frontal eye field was studied in relation to
+the detection of masked stimuli (Thompson & Schall,
+1998, 1999; this volume). It was shown that visual
+neurons in the early parts of their response exhibit
+activity that ‘predicts’ whether the monkey will detect
+the target. Moreover, components of the response after
+about 100 ms correlate with whether the monkey iden-
+tifies the stimulus as a target or not. There are several
+reasons to argue that this late activity is not a correlate
+of the eye movement associated with the target identifi-
+cation but rather is a correlate of the conscious visual
+selection process leading to the distinction between
+targets and non-targets (Thompson and Schall, this
+volume).
+
+Prefrontal cortex projects back to extrastriate visual
+areas (Salin & Bullier, 1995), and there is evidence that
+contextual modulation in V1 depends on feedback (Bul-
+lier, Hupé, James & Girard, 1996; Lamme et al., 1998c;
+Hupé, James, Payne, Lomber, Girard & Bullier, 1998).
+This suggests that the late onset modulations observed
+in prefrontal cortex and in V1, which both relate to
+whether stimuli are perceived or not, strongly interde-
+pend. Obviously the many visual and sensorimotor
+areas in between these two extreme ‘ends’ of the brain
+will be involved as well, as is shown by the many
+findings of correlates of subjective perception in the
+extrastriate areas (Logothetis & Schall, 1989; Leopold
+& Logothetis, 1996; Britten, Newsome, Shadlen, Cele-
+brini & Movshon, 1996; Bradley et al., 1998). Many
+theories of visual awareness propose a general ‘state’ of
+activity that involves many areas of the brain simulta-
+neously, and that is achieved by recurrent feedfor-
+ward–feedback connections, the key feature of this
+state being some sort of resonance (Pollen, 1999), or
+reentry (Edelman, 1992). The combination of related
+findings on V1 and frontal cortex provides evidence for
+such models.
+
+The fact that in V1, as well as in many other corticale
+areas a percentage of the activity correlates with aware-
+ness poses a difficult problem for the localizationist
+approach to visual awareness. It is probably safe to say
+that in all parts of the brain activity may be recorded
+about events of which we are not aware. Similarly,
+maybe in all areas of the brain, activity can be recorded
+that is related to awareness. This makes it rather
+difficult to draw a sharp line to demarcate areas that
+belong to the neural substrate of visual awareness from
+those that do not. One would have to set a rather
+arbitrary threshold on the percentage of activity that
+should be related to conscious events in order to in-
+clude the area. Moreover, any such a threshold will
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–1521 1519
+
+probably include and exclude different areas, depending
+on the stimulus or task that is used.
+
+5. The role of V1 in the NCVA depends on how the
+NCVA is mediated
+
+When acknowledging the first four conclusions, it is
+evident that the answer to the question whether V1
+plays a role in visual awareness cannot be answered
+before we know how visual awareness is mediated.
+When awareness turns out to be mediated by some
+specific cortical area or some specific set of cells, V1 will
+not be part of such a correlate of awareness. Also when
+the NCVA turns out to be synchrony (or synchronous
+oscillations in some specific frequency range), V1 will
+probably not be part of it. However, when the NCVA
+will consist of modulations of firing rate, very much like
+the neural correlate of visual attention, V1 will proba-
+bly play as much a role as any other area of the brain.
+The question how the NCVA is mediated should thus
+logically precede the question where it is localized. As
+long as we are as far removed from an answer to this
+‘how’ question as we are today, excluding V1 from the
+NCVA is premature and may in fact obscure the way
+towards that answer.
+
+References
+
+Allman, J. M., Miezin, F., & McGuiness, E. (1985). Stimulus specific
+responses from beyond the classical receptive field: neurophysio-
+logical mechanisms for local–global comparisons in visual neu-
+rons. Annual Re6iews in Neuroscience, 8, 407–430.
+
+Andersen, R. A., Snyder, L., Li, C. S., & Stricanne, B. (1993).
+Coordinate transformations in the representation of spatial infor-
+mation. Current Opinion in Neurobiology, 3, 171–176.
+
+Andersen, R. A., Snyder, L. H., Bradley, D. C., & Xing, J. (1997).
+Multimodal representation of space in the posterior parietal cor-
+tex and its use in planning movements. Annual Re6iews in Neuro-
+science, 20, 303–330.
+
+Barbur, J. L., Watson, J. D., Frackowiak, R. S., & Zeki, S. (1993).
+Conscious visual perception without V1. Brain, 116, 1293–1302.
+
+Block, N. (1996). How can we find the neural correlate of conscious-
+ness? Trends in Neuroscience, 19, 456–459.
+
+Bodis-Wollner, I., Atkin, A., Raab, E., & Wolkstein, M. (1977).
+Visual association cortex and vision in man: pattern evoked
+occipital potentials in a blind boy. Science, 198, 629–631.
+
+Bradley, D. C., Chang, G. C., & Andersen, R. A. (1998). Encoding of
+three-dimensional structure-from-motion by primate area MT
+neurons. Nature, 392, 714–717.
+
+Bridgeman, B. (1980). Temporal response characteristics of cells in
+monkey striate cortex measured with metacontrast masking and
+brightness discrimination. Brain Research, 196, 347–364.
+
+Britten, K. H., Newsome, W. T., Shadlen, M. N., Celebrini, S., &
+Movshon, J. A. (1996). A relationship between behavioral choice
+and the visual responses on neurons in macaque MT. Vision
+Neuroscience, 13, 87–100.
+
+Brosch, M., Bauer, R., & Eckhorn, R. (1997). Stimulus dependent
+modulations of correlated high-frequency oscillations in cat visual
+cortex. Cerebral Cortex, 7, 70–76.
+
+Bullier, J., Hupé, J. M., James, A. C., & Girard, P. (1996). Functional
+
+interactions between areas V1 and V2 in the monkey. Journal of
+Physiology (Paris), 90, 217–220.
+
+Churchland, P. M. (1997). Can neurobiology teach us anything about
+consciousness? In N. Block, O. Flanagan, & G. Guzeldere, The
+nature of consciousness, philosophical debates. Cambridge, MA:
+Bradford, MIT press.
+
+Colby, C. L., Duhamel, J.-R., & Goldberg, M. E. (1996). Visual,
+presaccadic, and cognitive activation of single neurons in monkey
+lateral intraparietal area. Journal of Neurophysiology, 76, 2841–
+2852.
+
+Colby, C. L. (1998). Action-oriented spatial reference frames in
+cortex. Neuron, 20, 15–24.
+
+Cowey, A., & Stoerig, P. (1995). Blindsight in monkeys. Nature, 373,
+247–249.
+
+Crick, F. (1994). The astonishing hypothesis. New York: Scribner’s.
+Crick, F., & Koch, C. (1995). Are we aware of neural activity in
+
+primary visual cortex? Nature, 375, 121–123.
+Crick, F., & Koch, C. (1998a). Consciousness and neuroscience.
+
+Cerebral Cortex, 8, 97–107.
+Cumming, B. G., & Parker, A. J. (1997). Responses of primary visual
+
+cortical neurons to binocular disparity without depth perception.
+Nature, 389, 280–283.
+
+Dehaene, S., Naccache, L., Le Clec’H, G., Koechlin, E., Mueller, M.,
+Dehaene-Lambertz, G., Van de Moortele, P.-F., & Le Bihan, D.
+(1998). Imaging unconscious semantic priming. Nature, 395, 597–
+600.
+
+Desimone, R., & Duncan, J. (1995). Neural correlates of selective
+visual attention. Annual Re6iews in Neuroscience, 18, 193–222.
+
+Driver, J., Baylis, G. C., & Rafal, R. D. (1992). Preserved figure–
+ground segregation and symmetry perception in visual neglect.
+Nature, 360, 73–75.
+
+Eckhorn, R., Bauer, R., Jordan, W., Brosch, M., Kruse, W., Munk,
+M., & Reitboeck, H. J. (1988). Coherent oscillations: a mecha-
+nism for feature linking in the visual cortex? Biological Cybernet-
+ics, 60, 121–130.
+
+Edelman, G. M. (1992). Bright air, brilliant fire. On the matter of
+mind. USA: Basic Books.
+
+Engel, A. K., König, P., & Singer, W. (1991). Direct physiological
+evidence for scene segmentation by temporal coding. Proceedings
+of the National Academy of Sciences USA, 88, 9136–9140.
+
+Farah, M. J. (1990). Visual agnosia: disorders of object recognition and
+what they tell us about normal 6ision. Cambridge, MA, USA:
+Bradford, MIT press.
+
+Farah, M. J. (1997). Visual perception and visual awareness after
+brain damage: a tutorial overview. In N. Block, O. Flanagan, &
+G. Guzeldere, The nature of consciousness, philosophical debates.
+Cambridge, MA: Bradford, MIT press.
+
+Foster, K. H., Gaska, J. P., Nagler, M., & Pollen, D. A. (1985).
+Spatial and temporal frequency selectivity of neurons in visual
+cortical areas V1 and V2 of the macaque monkey. Journal of
+Physiology, 365, 331–363.
+
+Freiwald, W. A., Kreiter, A. K., & Singer, W. (1995). Stimulus
+dependent intercolumnar synchronization of single unit responses
+in cat area 17. Neuroreport, 6, 2348–2352.
+
+Fries, P., Roelfsema, P. R., Engel, A. K., König, P., & Singer, W.
+(1997). Synchronization of oscillatory responses in visual cortex
+correlates with perception in interocular rivalry. Proceedings of
+the National Academy of Sciences USA, 94, 12699–12704.
+
+Gilbert, C. D., & Wiesel, T. N. (1989). Columnar specificity of
+intrinsic horizontal and cortico-cortical connections in cat visual
+cortex. Journal of Neuroscience, 9, 2432–2442.
+
+Gray, C. M., Engel, A. K., König, P., & Singer, W. (1989). Oscilla-
+tory responses in cat visual cortex exhibit intercolumnar synchro-
+nization which reflects global stimulus properties. Nature, 338,
+334–337.
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–15211520
+
+Grunewald, A., Bradley, D. C., & Andersen, R. A. (1999). Correla-
+tion between percept and V1 activity while macaque performs
+depth-order-from-motion task. Investigative Ophthalmology and
+Visual Science 40 (Suppl. S777) (ARVO abstract c4095).
+
+Gur, M., & Snodderly, D. M. (1997). A dissociation between brain
+activity and perception: chromatically opponent cortical neurons
+signal chromatic flicker that is not perceived. Vision Research, 37,
+377–382.
+
+He, S., Smallman, H. S., & MacLeod, D. I. A. (1995). Neural and
+cortical limits on visual resolution. In6estigati6e Ophthalmology
+and Vision Science Supplement, 36, S438.
+
+He, S., Cavanagh, P., & Intriligator, J. (1996). Attentional resolution
+and the locus of visual awareness. Nature, 383, 334–336.
+
+Holender, D. (1986). Semantic activation without conscious identifi-
+cation in dichotic listening, parafoveal vision and visual masking:
+a survey and appraisal. Beha6iorial Brain Science, 9, 1–23.
+
+Hupé, J. M., James, A. C., Payne, B. R., Lomber, S. G., Girard, P.,
+& Bullier, J. (1998). Cortical feedback improves discrimination
+between figure and background by V1, V2, and V3 neurons.
+Nature, 394, 784–787.
+
+Kapadia, M. K., Ito, M., Gilbert, C. D., & Westheimer, G. (1995).
+Improvement in visual sensitivity by changes in local context:
+parallel studies in human observers and in V1 of alert monkeys.
+Neuron, 15, 843–856.
+
+Kastner, S., Nothdurft, H. C., & Pigarev, I. N. (1997). Neuronal
+correlates of pop-out in cat striate cortex. Vision Research, 37,
+371–376.
+
+Knierim, J. J., & Van Essen, D. C. (1992). Neuronal responses to
+static texture patterns in area V1 of the alert macaque monkey.
+Journal of Neurophysiology, 67, 961–980.
+
+Kolb, F. C., & Braun, J. (1995). Blindsight in normal observers.
+Nature, 377, 336–338.
+
+König, P., Engel, A. K., Löwel, S., & Singer, W. (1993). Squint
+affects synchronization of oscillatory responses in cat visual cor-
+tex. European Journal of Neuroscience, 5, 501–508.
+
+König, P., Engel, A. K., & Singer, W. (1995). Relation between
+oscillatory activity and long-range synchronization in cat visual
+cortex. Proceedings of the National Academy of Sciences USA, 92,
+290–294.
+
+Kreiter, A. K., & Singer, W. (1996). Stimulus dependent synchroniza-
+tion of neuronal responses in the visual cortex of awake macaque
+monkey. Journal of Neuroscience, 16, 2381–2396.
+
+Krüger, J., & Aiple, F. (1989). The connectivity underlying the
+orientation selectivity in the infragranular layers of monkey striate
+cortex. Brain Research, 477, 57–65.
+
+Kulli, J., & Koch, C. (1991). Does anesthesia cause loss of conscious-
+ness? Trends in Neuroscience, 14, 6–10.
+
+LaBerge, D. (1997). Attention, awareness, and the triangular circuit.
+Consciousness and Cognition, 6, 149–181.
+
+Lamme, V. A. F. (1995). The neurophysiology of figure–ground
+segregation in primary visual cortex. Journal of Neuroscience, 15,
+1605–1615.
+
+Lamme, V. A. F., & Spekreijse, H. (1998a). Neuronal synchrony does
+not represent texture segregation. Nature, 396, 362–366.
+
+Lamme, V. A. F., Supèr, H., & Spekreijse, H. (1998b). Feedforward,
+horizontal, and feedback processing in the visual cortex. Current
+Opinion in Neurobiology, 8, 529–535.
+
+Lamme, V. A. F., Zipser, K., & Spekreijse, H. (1998c). Figure–
+ground activity in primary visual cortex is suppressed by anaes-
+thesia. Proceedings of the National Academy of Sciences, 95,
+3263–3268.
+
+Lamme, V. A. F., Spekreijse, H. (2000). Contextual modulation in V1
+and scene perception. In: M. Gazzaniga, The cognitive neuro-
+sciences. Cambridge, MA: MIT Press.
+
+Lamme V. A. F., Rodriguez V., Spekreijse, H. (1999). Separate
+processing dynamics for texture elements, boundaries and surfaces
+in primary visual cortex. Cerebral Cortex, 9, 406–413.
+
+Landman, R., Lamme, V. A. F., Spekreijse, H. (2000). Gradual
+transition from preattentive to attentive components in a neural
+correlate of figure–ground segregation in monkey V1. Investiga-
+tive Ophthalmology and Vision Science 40 (Suppl. S200) (ARVO
+abstract c1055).
+
+Lee, T. S., Mumford, R., Romero, R., & Lamme, V. A. F. (1998).
+The role of the primary visual cortex in higher level vision. Vision
+Research, 38, 2429–2454.
+
+Leopold, D. A., & Logothetis, N. K. (1996). Activity changes in early
+visual cortex reflect monkeys’ percepts during binocular rivalry.
+Nature, 379, 549–553.
+
+Livingstone, M. S. (1996). Oscillatory firing and interneuronal corre-
+lations in squirrel monkey striate cortex. Journal of Neurophysiol-
+ogy, 75, 2467–2485.
+
+Logothetis, N. K., & Schall, J. D. (1989). Neuronal correlates of
+subjective visual perception. Science, 245, 761–763.
+
+Löwel, S., & Singer, W. (1992). Selection of intrinsic horizontal
+connections in the visual cortex by correlated neuronal activity.
+Science, 255, 209–212.
+
+MacEvoy, S. P., Paradiso, M. A. (1999). Neural correlates of light-
+ness constancy in primary visual cortex. Investigative Ophthal-
+mology and Vision Science 40 (Suppl. S640) (ARVO abstract
+c3372).
+
+Maier, J., Dagnelie, G., Spekreijse, H., & Van Dijk, B. W. (1987).
+Principal components analysis for source localization of VEP’s in
+man. Vision Research, 27, 165–177.
+
+Malach, R., Amir, Y., Harel, M., & Grinvald, A. (1993). Relation-
+ship between intrinsic connections and functional architecture
+revealed by optical imaging and in vivo targeted biocytin injec-
+tions in primate striate cortex. Proceedings of the National
+Academy of Sciences USA, 90, 10469–10473.
+
+Mattingley, J. B., Davis, G., & Driver, J. (1997). Preattentive filling-in
+of visual surfaces in parietal extinction. Science, 275, 671–674.
+
+Merikle, P. M. (1992). Perception without awareness: critical issues.
+American Psychology, 47, 792–796.
+
+Merikle, P. M., & Joordens, S. (1997). Parallels between perception
+without attention and perception without awareness. Conscious-
+ness and Cognition, 6, 219–236.
+
+Milner, A. D., & Goodale, M. A. (1995). The 6isual brain in action.
+Oxford: Oxford University Press.
+
+Milner, A. D. (1995). Cerebral correlates of visual awareness. Neu-
+ropsychologia, 33, 1117–1130.
+
+Moore, T., Rodman, H. R., Repp, A. B., & Gross, C. G. (1995).
+Localization of visual stimuli after striate cortex damage in mon-
+keys: parallels with human blindsight. Proceedings of the National
+Academy of Sciences USA, 92, 8215–8218.
+
+Müller, J. R., Krauskopf, J., & Lennie, P. (1997). Mechanisms
+surrounding the classical receptive field in macaque V1. Investiga-
+tive Ophthalmology and Vision Science 38 (S969) (ARVO ab-
+stract c4489).
+
+Munk, M. J. H., Roelfsema, P. R., König, P., Engel, A. K., & Singer,
+W. (1996). Role of reticular activation in the modulation of
+intracortical synchronization. Science, 272, 271–274.
+
+Nakamura, R. K., & Mishkin, M. (1980). Blindness in monkeys
+following non-visual cortical lesions. Brain Research, 188, 572–
+577.
+
+Nothdurft, H. C., Gallant, J. L., & Van Essen, D. C. (1999).
+Response modulation by texture surround in primate area V1:
+correlates of ‘popout’ under anesthesia. Vision Neuroscience, 16,
+15–34.
+
+Nowak, L. G., & Bullier, J. (1997). The timing of information
+transfer in the visual system. In: J. Kaas, K. Rockland, & A.
+Peters, Extrastriate cortex, New York: Plenum press. Cerebral
+Cortex 12, 205–241.
+
+Payne, B. R., Lomber, S. G., Villa, A. E., & Bullier, J. (1996).
+Reversible deactivation of cerebral network components. Trends
+in Neuroscience, 19, 535–542.
+
+
+
+V.A.F. Lamme et al. / Vision Research 40 (2000) 1507–1521 1521
+
+Polat, U., Mizobe, K., Pettet, M. W., Kasamatsu, T., & Norcia, A.
+M. (1998). Collinear stimuli regulate visual responses depending
+on cell’s contrast threshold. Nature, 391, 580–584.
+
+Pollen, D. A. (1999). On the neural correlates of visual perception.
+Cerebral Cortex, 9, 4–19.
+
+Posner, M. I. (1994). Attention: the mechanisms of consciousness.
+Proceedings of the National Academy of Sciences USA, 91, 7398–
+7403.
+
+Roche-Miranda, C. E., Bender, D. B., Gross, C. G., & Mishkin, M.
+(1975). Visual activation of neurons in inferotemporal cortex
+depends on striate cortex and forebrain commissures. Journal of
+Neurophysiology, 38, 475–491.
+
+Rodman, H. R., Gross, C. G., & Albright, T. D. (1989). Afferent
+basis of visual response properties in area MT of the macaque. II.
+Effects of striate cortex removal. Journal of Neuroscience, 9,
+2033–2050.
+
+Rodman, H. R., Gross, C. G., & Albright, T. D. (1990). Afferent
+basis of visual response properties in area MT of the macaque. II.
+Effects of superior colliculus removal. Journal of Neuroscience, 10,
+1154–1164.
+
+Roelfsema, P. R., König, P., Engel, A. K., Sireteanu, R., & Singer,
+W. (1994). Reduced synchronization in the visual cortex of cats
+with strabismic amblyopia. European Journal of Neuroscience, 6,
+1645–1655.
+
+Roelfsema, P. R., Engel, A. K., König, P., & Singer, W. (1997).
+Visuo-motor integration is associated with zero time-lag synchro-
+nization among cortical areas. Nature, 385, 157–161.
+
+Roelfsema, P. R., & Singer, W. (1998). Detecting connectedness.
+Crerbral Cortex, 8, 385–396.
+
+Roelfsema, P. R., Lamme, V. A. F., & Spekreijse, H. (1998). Object
+based attention in primary visual cortex of the macaque monkey.
+Nature, 395, 376–381.
+
+Rossi, A. F., Rittenhouse, C. D., & Paradiso, M. (1996). The
+representation of brightness in primary visual cortex. Science, 273,
+1104–1107.
+
+Sahraie, A., Weiskrantz, L., Barbur, J. L., Simmons, A., Williams, S.
+C., & Brammer, M. J. (1997). Pattern of neuronal activity associ-
+ated with conscious and unconscious processing of visual signals.
+Proceedings of the National Academy of Sciences USA, 94, 9406–
+9411.
+
+Salin, P., & Bullier, J. (1995). Corticocortical connections in the
+visual system: Structure and function. Physiology Re6iews, 75,
+107–154.
+
+Schall, J. D., & Bichot, N. P. (1998). Neural correlates of visual and
+motor decision processes. Current Opinion in Neurobiology, 8,
+211–217.
+
+Schall, J. D., & Thompson, K. G. (1999). Neural selection and
+control of visually guided eye movements. Annual Re6iews in
+Neuroscience, 22, 241–259.
+
+Schiller, P. H., Finlay, B. L., & Volman, S. F. (1976). Quantitative
+studies of single cell properties in monkey striate cortex. I–V.
+Journal of Neurophysiology, 39, 1288–1374.
+
+Sheinberg, D. L., & Logothetis, N. K. (1997). The role of temporal
+cortical areas in perceptual organization. Proceedings of the Na-
+tional Academy of Sciences USA, 94, 3408–3413.
+
+Singer, W., & Gray, C. M. (1995). Visual feature integration and the
+temporal correlation hypothesis. Annual Re6iews in Neuroscience,
+18, 555–586.
+
+Snodderly, D. M., & Gur, M. (1995). Organization of striate cortex
+of alert, trained monkeys (Macaca fascicularis): ongoing activity,
+stimulus selectivity, and widths of receptive field activating re-
+gions. Journal of Neurophysiology, 74, 2100–2125.
+
+Stoerig, P., & Cowey, A. (1997). Blindsight in man and monkey.
+Brain, 120, 535–559.
+
+Stoerig, P., Kleinschmidt, A., & Frahm, J. (1998). No visual re-
+sponses in denervated V1: high resolution functional magnetic
+resonance imaging of a blindsight patient. Neuroreport, 9, 21–25.
+
+Supèr, H., Lamme, V. A. F., Spekreijse, H. (1999). Contextual
+modulation in monkey primary visual cortex (V1) matches
+figure–ground perception. Investigative Ophthalmology and Vi-
+sion Science 40 (Suppl. S357) (ARVO abstract c1894).
+
+Tallon-Baudry, C., & Bertrand, O. (1999). Oscillatory gamma activity
+in humans and its role in object representation. Trends in Cogni-
+ti6e Sciences, 3, 151–162.
+
+Thompson, K. G., Hanes, D. P., Bichot, N. P., & Schall, J. D. (1996).
+Perceptual and motor processing stages identified in the activity of
+macaque frontal eye field neurons during visual search. Journal of
+Neurophysiology, 76, 4040–4055.
+
+Thompson, K. G., & Schall, J. D. (1998). Neural correlate of visual
+awareness in prefrontal cortex. Society of Neuroscience Abstracts,
+23, 303.
+
+Thompson, K. G., & Schall, J. D. (1999). The detection of visual
+signals by macaque frontal eye field during masking. Nature
+Neuroscience, 2, 283–288.
+
+Ts’o, D. Y., Gilbert, C. D., & Wiesel, T. N. (1986). Relationships
+between horizontal interactions and functional architecture in cat
+striate cortex as revealed by cross-correlation analysis. Journal of
+Neuroscience, 6, 1160–1170.
+
+Vallar, G., & Perani, D. (1986). The anatomy of unilateral neglect
+after right-hemisphere stroke lesions. A clinical/CT-Scan correla-
+tion study in man. Neuropsychologia, 24, 609–622.
+
+Von der Malsburg, C., & Schneider, W. (1986). A neural cocktail-
+party processor. Biological Cybernetics, 54, 29–40.
+
+Wachtler, T., Sejnowski, T. J., Albright, T. D. (1999). Interactions
+between stimulus and background chromaticities in macaque pri-
+mary visual cortex. Investigative Ophthalmology and Vision Sci-
+ence 40 (Suppl. S641) (ARVO abstract c3378).
+
+Weiskrantz, L. (1996). Blindsight revisited. Current Opinion in Neuro-
+biology, 6, 215–220.
+
+Wollman, D. E., & Palmer, L. A. (1995). Phase locking of neuronal
+responses to the vertical refresh of computer display monitors in
+cat lateral geniculate nucleus and striate cortex. Journal of Neuro-
+science Methods, 60, 107–113.
+
+Zhang, J., Riehle, A., Requin, J., & Kornblum, S. (1997). Dynamics
+of single neuron activity in monkey primary motor cortex related
+to sensorimotor transformation. Journal of Neuroscience, 17,
+2227–2246.
+
+Zipser, K., Lamme, V. A. F., & Schiller, P. H. (1996). Contextual
+modulation in primary visual cortex. Journal of Neuroscience, 16,
+7376–7389.
+
+.
+
+

@@ -1,0 +1,1458 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+doi:10.1016/j.tics.2006.09.001
+
+
+Towards a true neural stance on
+consciousness
+Victor A.F. Lamme
+
+Department of Psychology, University of Amsterdam, Roeterstraat 15, 1018 WB Amsterdam, the Netherlands
+
+Opinion TRENDS in Cognitive Sciences Vol.10 No.11
+Consciousness is traditionally defined in mental or
+psychological terms. In trying to find its neural basis,
+introspective or behavioral observations are considered
+the gold standard, to which neural measures should be
+fitted. I argue that this poses serious problems for under-
+standing the mind–brain relationship. To solve these
+problems, neural and behavioral measures should be
+put on an equal footing. I illustrate this by an example
+from visual neuroscience, in which both neural and
+behavioral arguments converge towards a coherent
+scientific definition of visual consciousness. However,
+to accept this definition, we need to let go of our intuitive
+or psychological notions of conscious experience and let
+the neuroscience arguments have their way. Only by
+moving our notion of mind towards that of brain can
+progress be made.
+
+Introduction
+Consciousness is amultifaceted and complex phenomenon,
+encompassing functions such as language, attention and
+control. Its most enigmatic aspect, however, is that of
+conscious experience [1]. Why do some processes in the
+brain evoke conscious experiences, but others do not? The
+question is still far beyond our reach, but neuroscience is
+expected to provide an answer by finding the neural cor-
+relate of consciousness (NCC) [2]. Experiments to find the
+NCC invariably involve some manipulation of conscious-
+ness, induced experimentally [3] or accidentally, as in
+lesion patients. Choices are plentiful (Table 1). However,
+the intended presence or absence of conscious experience
+always has to be probed behaviorally, and that is where
+trouble begins.
+
+This is best illustrated with a classic example.
+Split-brain patients (Table 1) can always report objects
+presented in the right half field of vision. But when objects
+are presented to the left, the patients say not to see them,
+simply because these are processed by the isolated right
+hemisphere, which has no capacity for language and
+speech. However, many patients can draw these unseen
+objects, select them from a row of other objects, match them
+to words, or perform other (simple) cognitive operations, as
+long as the behavior is executed by the left hand, which is
+connected to the right hemisphere [4,5].
+
+Here is the crucial question: Are these patients seeing
+the objects in the left half field? They say not, and they
+know best, don’t they? Consequently, we might conclude
+Corresponding author: Lamme, V.A.F. (v.a.f.lamme@uva.nl).
+Available online 25 September 2006.
+
+www.sciencedirect.com 1364-6613/$ – see front matter � 2006 Elsevier Ltd. All rights reserve
+that the right hemisphere is not part of the NCC for visual
+experience. But can you draw something without seeing it?
+And isn’t selection an expression of recognition and atten-
+tion? Isn’t it unlikely that the right hemisphere cannot
+sustain conscious experience, simply because it cannot
+‘talk’? This would argue for not excluding the right hemi-
+sphere from the NCC. Note that nothing intrinsic to the
+behavioral experiments provides arguments for or against
+either conclusion. It all depends on preconceived notions
+about the role of language in consciousness, about which
+much has been written but little concluded.
+
+The example highlights two notorious difficulties in
+gauging conscious experience from the third- (or even
+first-) person perspective. The first is that some choice
+has to be made as to what behavioral measures ‘count’
+as evidence for the subject having conscious experience
+(e.g. drawing versus talk) (Figure 1). The second is that in
+such heterophenomenological observations conscious
+experience is easily conflated with cognitive functions that
+are necessary for the report (in this case language).
+
+This problem has grave consequences for the search for
+the NCC.Many similar examples exist, in which various, if
+not all, parts of the brain have been included or excluded
+from the NCC, entirely depending on the measure of
+conscious experience, or the notion of consciousness that
+is startedwith [6,7] (Table 1). This not only poses a problem
+for finding the ‘true’ NCC; more serious is that, in this way,
+neuroscience will hardly fulfill its promise to get rid of the
+‘tedium of philosophers perpetually disagreeing with each
+other’ [8].
+
+To find a way out, I think we have to go beyond finding
+‘neural correlates of ’, and let the arguments from neu-
+roscience have a true say in the matter. To illustrate this,
+I first identify the problems of treating visual experience as
+anentirelymental or psychological concept. I thenshowhow
+a more coherent scientific definition of conscious visual
+experience emerges, when both behavioral and neural find-
+ings, combined with theoretical concepts, are put on an
+equal footing. Thiswill, however, entail a view on conscious-
+ness that is moving away from our traditional or introspec-
+tive notions. But this is the only way towards progress.
+From neural activation to visual experience
+A basic assumption of consciousness research is that when
+a subject is presented with a visual stimulus it is either
+seen or not seen. What happens in the brain when a
+stimulus is shown, and can we establish when conscious
+experience emerges from the neural activity it causes?
+d. doi:10.1016/j.tics.2006.09.001
+
+mailto:v.a.f.lamme@uva.nl
+http://dx.doi.org/10.1016/j.tics.2006.09.001
+
+
+Opinion TRENDS in Cognitive Sciences Vol.10 No.11 495
+When a new image hits the retina, it is processed
+through successive levels of visual cortex, by means of
+feedforward connections, working at an astonishing
+speed. Each level takes only 10 ms of processing, so that
+in about 100–150 ms the whole brain ‘knows’ about the
+Table 1. Conflating conscious experience with other cognitive fun
+
+Phenomenon Brief description of phenomenon, and conscious
+
+(C) versus unconscious (U) behavior
+
+(a) True manipulations or impairments of conscious experience
+
+Blindsight
+
+[37–39]
+
+Subjects report no conscious experience for the
+
+visual field contralateral to the lesion but
+
+can guess stimulus properties, localize
+
+stimuli, show vegetative or emotional
+
+responses, etc.
+
+C: Detection
+
+U: Localization, guessing, pupil dilation and
+
+priming
+
+Visual
+
+agnosia [40]
+
+Failure to recognize objects or their shape,
+
+while still seeing basic features. Yet these
+
+objects can be localized, picked up or
+
+manipulated according to shape.
+
+C: Object recognition
+
+U: Localization, handling and acting
+
+Backward
+
+masking
+
+[14,27,36,41,
+
+42]
+
+Presenting a stimulus, shortly followed by
+
+another stimulus, the mask, that renders the
+
+first stimulus less (or in-) visible. Other
+
+varieties exist that might all have different
+
+effects. Masked stimuli might cause priming of
+
+subsequent choices.
+
+C: Detection
+
+U: Priming and galvanic skin response (GSR)
+
+Dichoptic
+
+masking [28]
+
+Presenting stimuli with opposite features (e.g.
+
+colors) to the two eyes, so that it becomes
+
+invisible in the fused binocular percept.
+
+C: Detection
+
+U: Localization
+
+Transcranial
+
+magnetic
+
+stimulation
+
+(TMS) [11,43–
+
+45]
+
+Brief (ms) disruption of neural activity with a
+
+magnetic field pulse over the scalp. TMS over
+
+the occipital cortex at �100 ms after stimulus
+onset disrupts visual awareness. TMS over V1
+
+might still allow unconscious (blindsight)
+
+behaviour.
+
+C: Detection, discrimination and localization
+
+U: Forced choice guessing of stimulus attribute
+
+Binocular
+
+rivalry [46–
+
+48]
+
+Different stimuli to the two eyes results in
+
+suppression of one or the other. Spontaneous
+
+alternations of which stimulus is seen, each
+
+dominant percept lasting a few seconds.
+
+Additional manipulations have shown that the
+
+phenomenon is about switching between percepts
+
+rather than eye of input.
+
+C: Reported dominance of one or the other percept
+
+U: Priming by subdominant percept
+
+www.sciencedirect.com
+new image before our eyes, and potential motor responses
+are prepared. From the very first action potentials that are
+fired, neurons exhibit complex tuning properties such as
+selectivity for motion, depth, colour or shape, and even
+respond selectively to faces. Thus, the feedforward sweep
+ctionsa
+
+Lesion and other relevant
+
+neural data
+
+Conclusion with
+
+respect to the NCC
+
+Lesion to V1. In monkeys,
+
+ventral stream areas no longer
+
+respond to stimuli whereas
+
+parietal cortex (e.g. area MT)
+
+still responds. In human
+
+subjects, ventral stream areas
+
+also respond to stimuli.
+
+NCC sits in the
+
+ventral stream, in
+
+V1 itself, or is
+
+the interaction
+
+between V1 and
+
+higher visual
+
+areas.
+
+Results from a lesion to
+
+extrastriate and/or ventral
+
+stream cortex.
+
+Dorsal stream
+
+performs
+
+unconscious action
+
+towards objects
+
+and is not part of
+
+the NCC. The NCC
+
+sits in the
+
+ventral stream
+
+cortex.
+
+Invisible stimuli (d0 = 0)
+
+still activate neurons
+
+throughout the brain, such as
+
+in V1, IT cortex, frontal eye
+
+fields or motor cortex, albeit
+
+briefly (about as long as the
+
+stimulus is physically
+
+present). Interrupts delayed
+
+signals, probably reflecting
+
+feedback or recurrent/re-
+
+entrant processing.
+
+The NCC sits
+
+nowhere (i.e. is
+
+not localizable).
+
+The NCC is neural
+
+activity passing a
+
+certain threshold.
+
+The NCC is re-
+
+entrant
+
+processing.
+
+Activates the same areas as
+
+visible versions of the
+
+stimulus, only weaker. Even
+
+highly selective areas, such
+
+as those responding to faces,
+
+are activated.
+
+The NCC is not
+
+localizable.
+
+Neural activity
+
+has to pass a
+
+threshold for
+
+becoming the NCC.
+
+Shows that activity at �100ms
+in V1 (and adjacent early
+
+visual areas) is necessary for
+
+visual awareness. In higher
+
+areas, disruption by TMS is
+
+effective at earlier
+
+latencies, suggesting that the
+
+effect of TMS is mainly due to
+
+the disruption of feedback
+
+signals to V1.
+
+The NCC is
+
+feedback or re-
+
+entrant processing.
+
+In monkeys, cells in low-level
+
+areas (e.g. V1) respond to the
+
+suppressed stimulus, whereas
+
+in higher areas (e.g. IT)
+
+cells only respond to the
+
+conscious percept. In human
+
+fMRI studies, there is a
+
+strong correlation between
+
+neural activity in V1 and
+
+perceptual dominance. Switches
+
+are accompanied by activation
+
+of the frontoparietal network.
+
+Unclear: at first
+
+it was thought
+
+that high-level
+
+areas in the
+
+ventral stream are
+
+the NCC, but
+
+recent fMRI data
+
+(and a reanalysis
+
+of the early
+
+monkey data [48])
+
+cast doubt on this
+
+conclusion.
+
+
+
+Table 1 (Continued )
+
+Phenomenon Brief description of phenomenon, and conscious
+
+(C) versus unconscious (U) behavior
+
+Lesion and other relevant
+
+neural data
+
+Conclusion with
+
+respect to the NCC
+
+(b) Failures of reportability instead of conscious experience?
+
+Split brain
+
+[4,5]
+
+Failure to verbally report objects that are
+
+presented contralateral to the non-language
+
+hemisphere (usually the left). But these
+
+objects can be drawn, associated with other
+
+objects or words, selected from a row of
+
+alternative choices or cognitively manipulated.
+
+Results from a trans-section
+
+of the corpus callosum and
+
+commisures that connects the
+
+two hemispheres. As a result,
+
+what ‘happens’ to the right
+
+hemisphere cannot be verbally
+
+reported.
+
+NCC sits in the
+
+left hemisphere,
+
+the right
+
+hemisphere is
+
+unconscious.
+
+C: Speech
+
+U: Drawing, selecting, recognition, pointing
+
+out and other simple cognitive manipulations
+
+Manipulation of language instead of
+
+consciousness?
+
+Neglect or
+
+extinction
+
+[49–51]
+
+Failure to report or attend to contralateral
+
+objects when presented alone (neglect) or in
+
+combination with ipsilateral objects
+
+(extinction). Yet the unattended objects can
+
+induce various forms of priming.
+
+Results from a lesion to
+
+(occipito- or temporo-)
+
+parietal cortex (arteria
+
+cerebralis media region).
+
+Ventral stream areas still
+
+process visual information.
+
+NCC sits in the
+
+frontoparietal
+
+network that is
+
+necessary for
+
+attention. V1 and
+
+ventral stream are
+
+not the NCC.C: Selecting, localizing, drawing, recognizing,
+
+manipulation
+
+U: Priming
+
+Manipulation of attention instead of
+
+consciousness?
+
+Change
+
+blindness
+
+[19,52,53]
+
+Changes between two views of the same scene are
+
+not detected, even when as dramatic as changing
+
+persons or whole objects.
+
+Unseen changes evoke activity
+
+in the ventral stream and
+
+early visual areas. Seen
+
+changes activate the
+
+frontoparietal network.
+
+The NCC sits in
+
+the frontoparietal
+
+network.
+
+C: Change detection
+
+U: Having a hunch that a change occurred
+
+Manipulation of attention instead of
+
+consciousness?
+
+Inattentional
+
+blindness
+
+[17,54]
+
+Subjects cannot report afterwards on objects
+
+that were unexpectedly presented outside of the
+
+focus of attention.
+
+Not remembered stimuli have
+
+activated selective areas in
+
+the ventral stream, and have
+
+evoked re-entrant processing
+
+in early visual cortex.
+
+The NCC sits in
+
+the frontoparietal
+
+network.
+
+C: Detection, memorization and familiarity upon
+
+recall
+
+U: Priming and grouping effects
+
+Manipulation of memory instead of
+
+consciousness?
+
+Attentional
+
+blink [55]
+
+Detection of a target from a stream of stimuli
+
+prevents detection of a second target for about
+
+half a second (the ‘blink’ period).
+
+Early visual cortex (V1) and
+
+ventral stream areas are still
+
+activated by non-detected
+
+targets. Frontoparietal
+
+activation is absent.
+
+The NCC sits in
+
+the frontoparietal
+
+network.
+
+C: Detection and identification
+
+U: Priming
+
+Manipulation of attention instead of
+
+consciousness?
+aIn blindsight, resulting from a lesion to V1, subjects can point at visual stimuli, or guess their shape, color or motion direction. However, subjects verbally deny any conscious
+
+experience, nor can they detect the stimuli (i.e. discriminate presence or absence). Detection and talk carry more weight for the presence of conscious experience than
+
+localization or guessing (Figure 1), and therefore blindsight is considered the classical example of visually guided behavior in the absence of conscious experience, even in
+
+monkeys [37].
+
+Why should we ‘trust’ these patients, when they say they have no visual experience, even though part of their behavior suggests otherwise? One reason is that the unseen
+
+stimuli never spontaneously induce behavior, even after extensive training (although this does happen in monkeys); blindsight capacities only become evident in forced
+
+laboratory settings. A second important argument is that no manipulation is capable of restoring, in the lesioned field, the normal vision that the same blindsight patient
+
+reports to experience in the intact visual field. The information is and remains completely inaccessible.
+
+This is radically different in other conditions or manipulations. For example, when attention is focused on a particular stream of information, this will often result in other
+
+events going unnoticed, or being forgotten, as is observed in phenomena such as inattentional blindness [17], change blindness [19] or the attentional blink [55]. However, in
+
+those cases, important events, such as hearing one’s name, might capture attention regardless. In other words, the unattended information is not inaccessible, it is just not
+
+currently accessed [7]. Whether there is conscious experience in such cases is therefore an open question [7,13]. It could be that experience is present, yet cannot be reported
+
+because of the absence of attention.
+
+The table provides a list of manipulations and neuropsychological conditions, and conclusions that have been drawn with respect to the nature or locus of the NCC. A division
+
+is made between manipulations where it is arguable whether conscious experience is manipulated instead of some other cognitive function (b) and cases where such
+
+arguments would not hold (a). References are not meant to be exhaustive but only give hints for further search on the topic.
+
+496 Opinion TRENDS in Cognitive Sciences Vol.10 No.11
+
+www.sciencedirect.com
+
+
+
+Figure 1. How to measure conscious experience? How can we tell whether a visual
+
+stimulus is consciously perceived? Countless behavioral measures are possible,
+
+some of which seem more reliable than others. I compiled a list by asking a group
+
+of cognitive psychologists to rank measurements in order of the ‘weight’ these
+
+carry as evidence for the subject having a conscious experience. Why do some
+
+measures end up higher than others? To a large extent, this reflects ideas about the
+
+nature of consciousness that have accumulated over years of psychological
+
+research and philosophical debate. The problem lies not in the extreme ends of the
+
+scale. But where should we draw the line between behavioral measures signaling
+
+conscious versus unconscious processing? In searching for the NCC, behavioral
+
+measures that in one study are taken as evidence of conscious experience are
+
+taken as measures of unconscious processing in others. Consider the localization
+
+and handling of objects. In blindsight and visual agnosia, these are taken as
+
+reflecting unconscious processing of objects that cannot be consciously detected
+
+or recognized [37,40]. In neglect and extinction [49], however, the failure of
+
+patients to look at contralateral objects and manipulate them is taken to imply that
+
+these objects are not reaching consciousness. Consequently, opposite conclusions
+
+have been drawn from these categories of patients with respect to the locus of the
+
+NCC (Table 1).
+
+Figure 2. Feedforward sweep and recurrent processing. (a) The ‘feedforward
+
+sweep’, the rapid transfer of visual information through the visual cortex and
+
+towards motor areas producing a (potential) response. Within several milliseconds
+
+each area extracts information about shape, color, motion, position, objects and
+
+faces (see icons). Processing by the feedforward sweep is not, however,
+
+accompanied by conscious experience of the visual input. (b) Recurrent
+
+processing enables the exchange of information between higher and lower
+
+areas, and within areas, by means of horizontal and feedback connections. Is
+
+recurrent processing between visual areas sufficient for a conscious visual
+
+percept? (c) Reportable conscious experience is present when the visual
+
+recurrent core extends towards areas in executive space, such as the
+
+frontoparietal network (Fr-Par), or language areas [9,10].
+
+Opinion TRENDS in Cognitive Sciences Vol.10 No.11 497
+enables a rapid extraction of complex and meaningful
+features from the visual scene, and lays down potential
+motor responses to act on the incoming information [9]
+(Figure 2a).
+
+Are we conscious of the features extracted by the
+feedforward sweep? Do we see a face when a face-selective
+neuron becomes active? It seems not. Many studies, in both
+humans and monkeys, indicate that no matter what area
+of the brain is reached by the feedforward sweep, this in
+itself is not producing (reportable) conscious experience.
+What seems necessary for conscious experience is that
+neurons in visual areas engage in so-called recurrent (or
+re-entrant or resonant) processing [9–11] (Figure 2b,c),
+where high- and low-level areas interact. This would
+enable the widespread exchange of information between
+areas processing different attributes of the visual scene,
+and thus support perceptual grouping [12]. In addition,
+when recurrent interactions span the entire sensorimotor
+hierarchy, or involve the frontoparietal areas, potential
+motor responses could modify the visual responses, which
+would form the neural equivalent of task set, attention,
+etc. [7,10].
+www.sciencedirect.com
+That recurrent processing (RP) is necessary for
+conscious experience [9,10] is a view that is now being
+increasingly embraced [7,13,14], although challenging, but
+entirely empirical, questions remain (Box 1). These are not,
+however, the topic of discussion here.
+
+
+
+Figure 3. Recurrent processing during inattentional blindness. Results from a
+
+modified version of the experiment performed by Scholte et al. [16]. Subjects were
+
+instructed to focus attention on a foveally presented stream of black and white
+
+letters, and report the occurrence of white vowels. All letters were presented in
+
+textured backgrounds, but at some occasions, additional square figures were
+
+present in the surround of the fixation spot (as shown in the upper panel).
+
+Afterwards, 50% of subject reported not to have seen these square figures, that is
+
+they suffered from inattentional blindness or amnesia. Regardless, brain signals
+
+recorded with EEG (middle), MEG [16] and fMRI (lower) revealed that the unseen
+
+textured figures evoked recurrent interactions between several visual areas.
+
+Box 1. Outstanding questions
+
+� What is the crucial aspect of recurrent processing that is necessary
+for conscious experience? Recurrent interactions invariably go
+
+along with prolonged activation of high-level neurons, and it has
+
+been shown, for example, that the duration of activation of face-
+
+selective cells correlates strongly with visibility of masked faces
+
+[36]. Can conscious experience be sustained on the basis of such
+
+high-level activations alone, even in the absence of recurrency?
+
+This could be answered by interrupting feedback signals to V1 (for
+
+example with transcranial magnetic stimulation, TMS), while at
+
+the same time recording from face-selective inferior temporal (IT)
+
+cells.
+
+� Why would recurrent processing give rise to conscious experi-
+ence? This so-called ‘hard problem’ [1] is difficult to answer at this
+
+point. However, looking at the neural and molecular mechanisms
+
+that sustain recurrent processing, such as the activation of NMDA-
+
+type receptors [29,34], combined with theoretical notions about
+
+the importance of recurrent processing [32] might open up venues
+
+towards a deeper understanding of consciousness.
+
+� If indeed there is conscious experience (in the neural sense) in
+cases such as inattentional blindness, change blindness or
+
+attentional blink, and possibly even in neuropsychological condi-
+
+tions such as extinction or split brain, what is the nature of such
+
+experiences? For example, does it allow subjects to learn from
+
+these experiences? Would this support controversial issues such
+
+as speed-reading, eidetic memory or recall under hypnosis?
+
+498 Opinion TRENDS in Cognitive Sciences Vol.10 No.11
+An impossible question?
+Much more challenging is another question: is recurrency
+in itself sufficient for conscious experience? Do we see a
+face as soon as face-selective and lower-level cells engage in
+recurrent interactions (Figure 2b)? At first sight, this
+seems easy to answer. Any instance of RP in the absence
+of reportable awareness would falsify the idea. Super et al.
+[15] showed that recurrent interactions, recorded in V1 of
+the awake monkey, are necessary for the animal reporting
+the presence of texture defined figures. However,
+raising the decision criterion of the monkey, simply by
+increasing the number of catch trials, dissociates RP from
+the behavioral response. Then, recurrent signals are also
+present when the monkey fails to report a figure percept.
+Another study (Figure 3) showed the presence of RP sig-
+nals, while human subjects were in a state of inattentional
+blindness (IB) towards the objects inducing these signals.
+During IB, RP remained localized to visual areas. Objects
+were only reported when the signals showed more wide-
+spread interactions, possibly involving the frontoparietal
+network [16].
+
+Does this falsify the thesis that RP is sufficient for
+conscious experience? Note the similarity with the split-
+brain conundrum outlined above. It could be argued that
+the only reasonwhy themonkey fails to report its conscious
+experience is that we have raised the number of catch
+trials, and hence themonkey’s decision criterion. Only if we
+equate conscious experience to the outcome of his decision
+process (or to the eye movement signaling that outcome)
+can we fully ‘trust’ its report.
+
+Similarly, does IB really show the absence of conscious
+experience? Simply put, subjects just do not remember
+stimuli presented outside their focus of attention [17].
+Storage in episodic or working memory is taken as the
+measure of conscious experience. Unless consciousness
+and episodicmemory are taken as the same thing, it cannot
+www.sciencedirect.com
+be excluded that the subject was conscious of the stimulus
+at the moment of its presentation, yet simply forgot about
+it [18]. This might sound strange, but experiments on the
+related phenomenon of change blindness [19] show that
+unattended objects are represented in the mind in a fleet-
+ing, yet reportable, representation that disappears as soon
+as a new scene is presented or the eyes move to a new
+location [20].
+
+So again, we find ourselves in a labyrinth of arguments.
+We could take the subject’s report at face value and
+conclude that RP is insufficient for conscious experience.
+In such a view, cognitive functions involved in conscious
+report (attention, working memory and language) are part
+and parcel of consciousness, whereas other functions are
+unconscious. But then why not simply study these
+cognitive functions, and abandon studying consciousness
+
+
+
+Opinion TRENDS in Cognitive Sciences Vol.10 No.11 499
+and the NCC? Moreover, any sharp division between con-
+scious and unconscious cognitive functions will again be
+arguable, often resorting to taste rather than scientific
+argument.
+
+The alternative view would hold that conscious
+experience is only done full justice when viewed as
+independent from other cognitive functions. Evidence for
+this idea is found in the many instances of attention [21],
+object recognition [22], learning [23], semantic processing
+[24] and even reasoning [25] without conscious reportabil-
+ity of what was learned, recognized, etc. In that view, RP
+could be seen as the NCC of visual experience, even when
+not reported. But how to verify conscious experience with-
+out any cognitive function interfering? This even applies to
+introspective reports. You cannot knowwhether you have a
+conscious experience without resorting to cognitive func-
+tions such as attention, memory or inner speech. This
+problem lies at the heart of the seemingly unsolvable
+debate on the existence of ‘non-accessible’ or phenomenal
+(P-) consciousness [26].
+
+Recently, the problem was recognized in the context of a
+global workspace theory of consciousness [7]. It was
+proposed to let such states of localized RP, not involving
+the frontoparietal networks associated with attention and
+reportability, fall in a category between the fully uncon-
+scious and the fully conscious, called the ‘preconscious’,
+where visual information is ‘visible yet not seen’. This
+hardly solves the issue of whether there is any phenom-
+enally conscious aspect to such a state, and the authors
+acknowledge that whether there is conscious experience in
+such a state ‘does not seem to be. . .a scientifically addres-
+sable question’ [7].
+
+Taking the neuroscience argument seriously
+This is where I diverge. The question seems not
+addressable because we do not let all scientific arguments
+have their way, and treat conscious experience as some-
+thing that can only be observed behaviorally or introspec-
+tively. We could find a solution, when we let neuroscience
+go beyond ‘finding neural correlates of ’. Consciousness
+should not only be inferred from behavioral measures,
+to which neural measurements are subordinate. Both
+measures should be on an equal footing.
+
+There is no need to doubt the presence of conscious
+experience when a subject reports a clearly visible event,
+nor its absence in cases such as blindsight or deeply
+masked stimuli (Table 1a). In those cases, arguments
+about the conflation of conscious experience with other
+cognitive functions do not hold up. It is the middle ground
+where additional, neural arguments become of value
+(Table 1b). Let’s see what such arguments would bring
+in answering the seemingly unanswerable: Is there con-
+scious experience when RP is limited to visual areas, as
+seems to be the case in inattentional or change blindness,
+attentional blink, and possibly in conditions such as extinc-
+tion and split brain?
+
+A starting point would be the observation that when RP
+encompasses visual as well as frontoparietal areas, a
+reportable conscious experience ensues [7,10]. This begs
+the obvious question as to what the essential neural
+ingredient of this state is for the generation of conscious
+www.sciencedirect.com
+experience. Is it the involvement of the frontoparietal net-
+work, as global workspace theory suggests, or is it the
+recurrency? A neural argument against the former would
+be that activation of cortical neurons per se, even activation
+of frontoparietal neurons, is insufficient for conscious
+experience, as is shown by various masking experiments
+[14,27–29]. Thiswould promote the recurrency as being the
+most important ingredient.
+
+Another neural argument would come from considering
+that RP is fundamentally different from feedforward
+processing. RP creates a condition that satisfies the Hebb
+rule, where the pre- and postsynaptic neurons are active
+simultaneously. This will trigger the activation of synaptic
+plasticity processes, which are the neural basis of learning
+and memory [30]. In other words, stimuli that evoke RP
+change your brain, while stimuli that evoke only feedfor-
+ward activation have no lasting impact. It would be diffi-
+cult to see why the involvement of the frontoparietal
+network would make such a difference (after all, it is all
+neurons firing action potentials, whether they are in the
+back or front of the head). Cases of learning during inat-
+tention provide evidence for the point [23].
+
+Theoretical arguments further stress the importance
+of recurrency. Tononi argues that consciousness is the
+capacity of a system to integrate information [31,32]. This
+capacity depends crucially on the system’s propensity to
+form a ‘dynamic core’, or complex, characterized by the
+strong mutual interactions among its elements, as well as
+by its complexity, that is the large number of possible
+states it can achieve. Because of its connectivity, the
+corticothalamic network has the capacity to form dynamic
+cores of high complexity, whereas other brain structures,
+such as the cerebellum or basal ganglia, do not [32]. There-
+fore, also in this account, recurrent interactions between
+cortical neurons are the crucial feature of consciousness,
+not which cortical regions sustain these interactions, which
+is only relevant for the type of conscious experience that
+results. Importantly, the proposal allows for multiple com-
+plexes to exist at the same time [32]. In the IB experiment
+(Figure 3), one complex could therefore represent the
+attended stream of letters, while another would represent
+the not-reported objects in the background. By definition,
+both would be conscious representations.
+
+According to such empirical and theoretical arguments,
+RP is the key neural ingredient of consciousness. We could
+even define consciousness as recurrent processing [10,33].
+This could shed an entirely different light on the matter of
+whether there is conscious phenomenal experience in
+states of inattention, split brain or extinction. The matter
+would now become a scientific debate, where evidence from
+behavioral observations is weighed against the evidence
+from neural measurements. If recurrent interactions of
+sufficient strength are demonstrated, it can be argued that
+the ‘inattentional’, ‘preconscious’ or ‘not reported’ still have
+the key neural signatures of what would otherwise be
+called conscious processing.
+
+What do we lose, what do we gain. . .
+Letting arguments from neuroscience override our
+intuitive and introspective notion of consciousness seems
+strange. After all, consciousness is almost synonymous to
+
+
+
+500 Opinion TRENDS in Cognitive Sciences Vol.10 No.11
+private access and personal feeling. So what is the benefit
+of adopting a more neural stance on consciousness? At first
+sight, we seem to lose explanatory power. There would be
+instances of (neurally defined) conscious processing that
+are not evident from behavioral measures or introspection
+(Figure 3). It is not unusual in science, however, to move
+away from intuitive notions. We have grown accustomed to
+the fact that, despite appearances, dolphins should be
+called mammals and sodium a metal. There are solid
+scientific arguments to do so. Are there such arguments
+in the case of RP and consciousness?
+
+As noted above, RP is crucial for the induction of
+synaptic plasticity. A first advantage of adopting a neural
+definition of the conscious–unconscious dichotomy would
+therefore be that we have a much more fundamental
+understanding of what consciousness is or does: we need
+consciousness to learn. This insight might also open up
+ways towards an understanding of consciousness at the
+cellular or molecular level, as synaptic plasticity is asso-
+ciated with specific synapses and receptor types [30,34].
+Although the ‘hard problem’ [1] is not solved by this in
+itself, it holds better promises of doing so than traditional
+NCC approaches.
+
+A second advantage is that we would be able to
+dissociate consciousness from other cognitive functions,
+suchas attention,workingmemory and reportability,which
+is a prerequisite for using the term at all. Elsewhere [10,33],
+I have shown how, from the neural perspective, attention
+and consciousness can be orthogonally defined as entirely
+separate neural processes. When other cognitive functions
+are neurally defined as well, we do not lose explanatory
+power at all by adopting the neural stance. It can be easily
+understoodwhy there is no reportability of conscious experi-
+ence in the case of IB, split brain, neglect and other condi-
+tions; in all these cases there are other cognitive functions
+thanconsciousness (neurally defined) that aremanipulated,
+which is causing the failure of reportability.
+
+Third, the neural dichotomy between ‘recurrent =
+conscious’ and ‘feedforward = unconscious’ yields testable
+predictions for behavioral experiments. If indeed all recur-
+rent processes share the feature of phenomenality and the
+inclination to induce synaptic plasticity, it can be predicted
+that learning will follow the phenomenal aspects of stimuli
+(e.g. color), rather than their physical features (e.g. wave-
+length), even when what is learned is not reportable.
+
+Finally, an obvious advantage would be that we can
+measure the presence or absence of consciousness without
+resorting to behavioral measures, enabling us to settle
+long-standing debates about the presence or absence of
+consciousness in neural disease, locked-in syndrome, coma,
+anesthesia, or animals. In fact, in these cases, neural
+measures are our only resort.
+
+. . . by moving our notion of mind towards that of brain?
+I have tried to point out that, by adopting a partly neural
+stance on consciousness, seemingly unsolvable issues in
+consciousness research can be solved. I do not claim that
+the neural definition of consciousness that I propose [10,33]
+is ultimately correct. It is the approach that I advocate.
+Alternative neural definitions might be proposed [7,35].
+Our task should be to evaluate each of these on its scientific
+www.sciencedirect.com
+merits and capability to deal with all the phenomena
+concerning consciousness and cognition. We should be
+prepared, however, to abandon our traditional ideas about
+what consciousness is, and let the neuroscience argument
+have its way. Otherwise, it is useless to do any neu-
+roscience on the topic at all.
+
+References
+1 Chalmers, D.J. (1995) Facing up to the problem of consciousness. J.
+
+Conscious. Stud. 2, 200–219
+2 Crick, F. and Koch, C. (1998) Consciousness and neuroscience. Cereb.
+
+Cortex 8, 97–107
+3 Kim, C.Y. and Blake, R. (2005) Psychophysical magic: rendering the
+
+visible ‘invisible’. Trends Cogn. Sci. 9, 381–388
+4 Sperry, R. (1984) Consciousness, personal identity and the divided
+
+brain. Neuropsychologia 22, 661–673
+5 Gazzaniga, M.S. (2005) Forty-five years of split-brain research and still
+
+going strong. Nat. Rev. Neurosci. 6, 653–659
+6 Lamme, V.A.F. et al. (2000) The role of primary visual cortex (V1) in
+
+visual awareness. Vision Res. 40, 1507–1521
+7 Dehaene, S. et al. (2006) Conscious, preconscious, and subliminal
+
+processing: a testable taxonomy. Trends Cogn. Sci. 10, 204–211
+8 Crick, F. (1996) Visual perception: rivalry and consciousness. Nature
+
+379, 485–486
+9 Lamme, V.A.F. and Roelfsema, P.R. (2000) The distinct modes of vision
+
+offered by feedforward and recurrent processing. Trends Neurosci. 23,
+571–579
+
+10 Lamme, V.A.F. (2003) Why visual attention and awareness are
+different. Trends Cogn. Sci. 7, 12–18
+
+11 Pascual-Leone, A. and Walsh, V. (2001) Fast backprojections from the
+motion to the primary visual area necessary for visual awareness.
+Science 292, 510–512
+
+12 Engel, A.K. and Singer, W. (2001) Temporal binding and the neural
+correlates of sensory awareness. Trends Cogn. Sci. 5, 16–25
+
+13 Block, N. (2005) Two neural correlates of consciousness. Trends Cogn.
+Sci. 9, 46–52
+
+14 Haynes, J.D. et al. (2005) Visibility reflects dynamic changes of
+effective connectivity between V1 and fusiform cortex. Neuron 46,
+811–821
+
+15 Super,H. et al. (2001) Two distinctmodes of sensory processing observed
+in monkey primary visual cortex (V1). Nat. Neurosci. 4, 304–310
+
+16 Scholte, H.S. et al. (2006) The influence of inattention on the
+neural correlates of scene segmentation. Brain Res. 1076, 106–115
+
+17 Mack, A. and Rock, I. (1998) Inattentional Blindness. MIT Press
+18 Wolfe, J.M. (1999) Inattentional amnesia. In Fleeting Memories
+
+(Coltheart, V., ed.), pp. 71–94, MIT Press
+19 Simons, D.J. and Rensink, R.A. (2005) Change blindness: past, present,
+
+and future. Trends Cogn. Sci. 9, 16–20
+20 Landman, R. et al. (2003) Large capacity storage of integrated objects
+
+before change blindness. Vision Res. 43, 149–164
+21 Kentridge, R.W. et al. (1999) Attention without awareness in
+
+blindsight. Proc. Biol. Sci. 266, 1805–1811
+22 Treisman, A.M. and Kanwisher, N.G. (1998) Perceiving visually
+
+presented objects: recognition, awareness, and modularity. Curr.
+Opin. Neurobiol. 8, 218–226
+
+23 Watanabe, T. et al. (2001) Perceptual learning without perception.
+Nature 413, 844–848
+
+24 Dehaene, S. et al. (1998) Imaging unconscious semantic priming.
+Nature 395, 597–600
+
+25 Bechara, A. et al. (1997) Deciding advantageously before knowing the
+advantageous strategy. Science 275, 1293–1295
+
+26 Block, N. (1996) How can we find the neural correlate of consciousness?
+Trends Neurosci. 19, 456–459
+
+27 Thompson,K.G. and Schall, J.D. (1999) The detection of visual signals
+by macaque frontal eye field during masking. Nat. Neurosci. 2,
+283–288
+
+28 Moutoussis, K. and Zeki, S. (2002) The relationship between cortical
+activation and perception investigated with invisible stimuli. Proc.
+Natl. Acad. Sci. U. S. A. 99, 9527–9532
+
+29 Elliott, R. and Dolan, R.J. (1998) Neural response during preference
+and memory judgments for subliminally presented stimuli: a
+functional neuroimaging study. J. Neurosci. 18, 4697–4704
+
+
+
+Opinion TRENDS in Cognitive Sciences Vol.10 No.11 501
+30 Singer, W. (1995) Development and plasticity of cortical processing
+architectures. Science 270, 758–764
+
+31 Tononi, G. and Edelman, G.M. (1998) Consciousness and complexity.
+Science 282, 1846–1851
+
+32 Tononi, G. (2004) An information integration theory of consciousness.
+BMC Neurosci. 5, 42
+
+33 Lamme, V.A.F. (2004) Separate neural definitions of visual
+consciousness and visual attention; a case for phenomenal
+awareness. Neural Netw. 17, 861–872
+
+34 Flohr, H. et al. (1998) The role of the NMDA synapse in general
+anesthesia. Toxicol. Lett. 100–101, 23–29
+
+35 Crick, F. and Koch, C. (2003) A framework for consciousness. Nat.
+Neurosci. 6, 119–126
+
+36 Rolls, E.T. et al. (1999) The neurophysiology of backward visual
+masking: information analysis. J. Cogn. Neurosci. 11, 300–311
+
+37 Stoerig, P. and Cowey, A. (1997) Blindsight in man and monkey. Brain
+120, 535–559
+
+38 Azzopardi, P. et al. (2003) Response latencies of neurons in visual areas
+MT and MST of monkeys with striate cortex lesions.Neuropsychologia
+41, 1738–1756
+
+39 Goebel, R. et al. (2001) Sustained extrastriate cortical activation
+without visual awareness revealed by fMRI studies of hemianopic
+patients. Vision Res. 41, 1459–1474
+
+40 James, T.W. et al. (2003) Ventral occipital lesions impair object
+recognition but not object-directed grasping: an fMRI study. Brain
+126, 2463–2475
+
+41 Macknik, S.L. and Livingstone, M.S. (1998) Neuronal correlates of
+visibility and invisibility in the primate visual system.Nat. Neurosci. 1,
+144–149
+
+42 Lamme, V.A.F. et al. (2002) Masking interrupts figure-ground signals
+in V1. J. Cogn. Neurosci. 14, 1044–1053
+Have you contributed to a
+Did you know that you are en
+
+book
+
+A 30% discount is available to all Elsevier book and jo
+
+stand-alone CD-ROMs directly from us.
+
+To take advantage of your discount:
+
+1. Choose your book(s) from www.elsevier.com or w
+
+2. Place your order
+
+Americas:
+
+Phone: +1 800 782 4927 for US customers
+
+Phone: +1 800 460 3110 for Canada, South a
+
+Fax: +1 314 453 4898
+
+author.contributor@elsevier.com
+
+All other countries:
+
+Phone: +44 (0)1865 474 010
+
+Fax: +44 (0)1865 474 011
+
+directorders@elsevier.com
+
+You’ll need to provide the name of the Elsev
+
+contributed. Shipping is free on prepaid ord
+
+If you are faxing your order, please enclose
+
+3. Make your payment
+
+This discount is only available on prepaid or
+
+apply to multi-volume reference works or El
+
+For more information, visit
+
+www.sciencedirect.com
+43 Silvanto, J. et al. (2005) Double dissociation of V1 andV5/MTactivity in
+visual awareness. Cereb. Cortex 15, 1736–1741
+
+44 Jolij, J. and Lamme, V.A.F. (2005) Repression of unconscious
+information by conscious processing: evidence from affective
+blindsight induced by transcranial magnetic stimulation. Proc. Natl.
+Acad. Sci. U. S. A. 102, 10747–10751
+
+45 Boyer, J.L. et al. (2005) Unconscious processing of orientation and color
+without primary visual cortex. Proc. Natl. Acad. Sci. U. S. A. 102,
+16875–16879
+
+46 Blake, R. and Logothetis, N.K. (2002) Visual competition. Nat. Rev.
+Neurosci. 3, 13–21
+
+47 Tong, F. (2001) Competing theories of binocular rivalry: a possible
+resolution. Brain Mind 2, 55–83
+
+48 Polonsky, A. et al. (2000) Neuronal activity in human primary visual
+cortex correlates with perception during binocular rivalry. Nat.
+Neurosci. 3, 1153–1159
+
+49 Driver, J. and Mattingley, J.B. (1998) Parietal neglect and visual
+awareness. Nat. Neurosci. 1, 17–22
+
+50 Rees, G. et al. (2002) Neural correlates of consciousness in humans.
+Nat. Rev. Neurosci. 3, 261–270
+
+51 Rees, G. et al. (2002) Neural correlates of conscious and unconscious
+vision in parietal extinction. Neurocase 8, 387–393
+
+52 Beck, D.M. et al. (2001) Neural correlates of change detection and
+change blindness. Nat. Neurosci. 4, 645–650
+
+53 Landman, R. et al. (2004) Relationship between change detection and
+pre-change [corrected] activity in visual area V1.Neuroreport 15, 2211–
+2214
+
+54 Rees, G. (1999) Inattentional blindness versus inattentional amnesia
+for fixated but ignored words. Science 286, 2504–2507
+
+55 Marois, R. et al. (2004) The neural fate of consciously perceived and
+missed events in the attentional blink. Neuron 41, 465–472
+n Elsevier publication?
+titled to a 30% discount on
+s?
+
+urnal contributors when ordering books or
+
+ww.books.elsevier.com
+
+nd Central America customers
+
+ier book or journal to which you have
+
+ers within the US.
+
+a copy of this page.
+
+ders. Please note that this offer does not
+
+sevier Health Sciences products.
+
+www.books.elsevier.com
+
+
+	Towards a true neural stance on consciousness
+	Introduction
+	From neural activation to visual experience
+	An impossible question?
+	Taking the neuroscience argument seriously
+	What do we lose, what do we gain&hellip;
+	&hellip;by moving our notion of mind towards that of brain?
+	References
+
+

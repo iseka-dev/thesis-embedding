@@ -1,0 +1,1663 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAS 2008 Part 3.book(15.Block.fm)
+
+
+Papers from the 2008 Joint Session
+
+Phenomenal and Access Consciousness
+Ned Block and Cynthia MacDonald
+CONSCIOUSNESS AND COGNITIVE ACCESS
+
+NED BLOCK
+
+This article concerns the interplay between two issues that involve both
+philosophy and neuroscience: whether the content of phenomenal con-
+sciousness is ‘rich’ or ‘sparse’, whether phenomenal consciousness goes be-
+yond cognitive access, and how it would be possible for there to be
+evidence one way or the other.
+
+I
+
+Introduction. I will begin with an illustration that raises the issue of
+whether phenomenal consciousness could be so divorced from cog-
+nitive access that a subject can have an experience that he does not
+and cannot think about. Then I will mention a puzzle about whether
+there could be evidence one way or the other on that issue, and suggest
+a solution to the puzzle. The issue of sparse versus rich experiences
+will be introduced and connected to the puzzle, then some empirical
+evidence will be described that casts some light on the issue.1
+
+II
+
+An Illustration. Nancy Kanwisher (2001) and her colleagues (Tong,
+Nakayama, Vaughan and Kanwisher 1998) have found impressively
+robust correlations between the experience of faces and activation
+at the bottom of the temporal lobe, usually in the subject’s right
+hemisphere in what they call the ‘fusiform face area’. One method
+that has been used to investigate the neural basis of face perception
+exploits a phenomenon known as ‘binocular rivalry’ (see Koch
+2004, ch. 16). If a face-stimulus is presented to one eye and a house
+stimulus to the other, the subject experiences a face for a few sec-
+
+1 Most of the material presented here derives from Block (2007a, 2007b, forthcoming).
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK290
+onds, then a house, then a face, etc. If the visual processing areas of
+the brain are examined while the face/house perceptual alternation
+is ongoing, much stronger alternations in sync with the percept are
+found in the fusiform face area than in other areas. The fusiform
+face area lights up when subjects are experiencing seeing a face and
+not when subjects are experiencing seeing a house, despite the fact
+that the stimuli are unchanging. The fusiform face area also lights
+up when subjects imagine faces (O’Craven and Kanwisher 2000).
+
+No one would suppose that activation of the fusiform face area
+all by itself is sufficient for face-experience. I have never heard any-
+one advocate the view that if a fusiform face area were kept alive in
+a bottle, that activation of it would determine face-experience, or
+any experience at all (Kanwisher 2001). The total neural basis of a
+state with phenomenal character C is—all by itself—sufficient for
+the instantiation of C. The core neural basis of a state with phenom-
+enal character C is the part of the total neural basis that distinguish-
+es states with C from states with other phenomenal characters, for
+example, the experience as of a face from the experience as of a
+house. (The core neural basis is similar to what Semir Zeki (Zeki
+2001; Zeki and Bartels 1999) has called an essential node.) So acti-
+vation of the fusiform face area is a candidate for the core neural
+basis—not the total neural basis—for experience as of a face (see
+Block 2005; Chalmers 2000; Shoemaker 1981).
+
+There is some evidence that a total neural basis of a kind of expe-
+rience is the core neural basis of that kind of experience plus active
+reverberations involving that core neural basis and the upper brain
+stem including the thalamus. (The most convincing evidence is that
+disabling the thalamus seems the common core of what different
+general anesthetics do (Alkire and Miller 2005). But for some
+doubts, see Alkire 2008; Tononi and Koch 2008.)
+
+Here is the illustration I have been leading up to. There is a type
+of brain injury which causes a syndrome known as ‘visuo-spatial ex-
+tinction’. If the patient sees a single object on either side, the patient
+can identify it, but if there are objects on both sides, the patient can
+identify only the one on the right and claims not to see the one on
+the left (Aimola Davies 2004). (With competition from the right, the
+subject cannot attend to the left.) However as Geraint Rees has
+shown in two fMRI studies of one patient (known as ‘GK’), when
+GK claims not to see a face on the left, his fusiform face area (on the
+right—which is fed by the left side of space) lights up almost as
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 291
+much as—and in overlapping areas involving the fusiform face
+area—when he reports seeing the face (Driver and Vuilleumier
+2001; Rees et al. 2000, 2002).
+
+III
+
+The Self. Should we conclude that the fusiform face area is not the
+whole of the core neural basis for the experience as of a face? Or
+that activation of the fusiform face area is the core neural basis for
+the experience as of a face but that some other aspect of the total
+neural basis is missing in GK? However, another possibility is that
+GK genuinely has face experience that he doesn’t know about and
+cannot know about. Wait—is that really a possibility? Does it even
+make sense to suppose that a subject could have an experience that
+he doesn’t and can’t know about? What would make it his experi-
+ence?
+
+The last question about GK can be answered by thinking about
+his visual field. What is the visual field? If you look straight ahead
+and hold a rod out to the side and slowly move it forward, you will
+be able to see it at roughly 100° from straight ahead. If you do the
+same coming down from the top, you will see it at roughly 60°, and
+if you do it from the bottom, you will see it at roughly 75°. This is a
+rough way of measuring the visual field. For more precision, the vis-
+ual field is measured with gratings. Subjects are asked whether at a
+given eccentricity the grating looks like a grating or like a uniform
+grey field. The shape of the visual field in normal people is oval,
+elongated to the right and left, and slightly larger on the bottom.
+The Humphrey Field Analyser HFA-II-I can measure your visual
+field in as little as two minutes. The United Kingdom has a mini-
+mum visual field requirement for driving (60° to the side, 20° above
+and below); US states vary widely in their requirements (Peli and
+Peli 2002). Of course one can measure something without knowing
+what it is. But it will be too much of a digression to go further into
+that issue now. The point I wish to make is that it is known that
+visuo-spatial extinction arises from a difficulty attending to one side
+of space when there is a competing target of attention on the other
+side of space. Some may say that GK’s lack of attention to the left
+prevents him from having any experience of a face stimulus on the
+left, but another possibility is that GK’s lack of attention to the left
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK292
+prevents his genuine experience of a face on the left from reaching
+the machinery of cognitive access. On that hypothesis, we can un-
+derstand the face experience as his experience by noting that it is in
+his visual field. One could meaningfully ask, for example, whether it
+is the same half of his visual field in the vertical dimension as his ex-
+perience on the right, or which is closer to the periphery, the one on
+the left or the one on the right.
+
+In what follows, I will assume it is meaningful to suppose that GK
+has an experience that he does not and cannot know about, turning
+to the question of whether it would be possible to empirically inves-
+tigate that meaningful possibility.
+
+IV
+
+The Methodological Puzzle. How could the issue be investigated? A
+natural methodology is to find the neural basis of face experience in
+clear cases and apply it to problem cases where for some reason
+there is no cognitive accessibility of the experience. However, in or-
+der to apply this methodology to the case of GK, one would first
+have to ask the question as to whether the activation of the fusiform
+face area (the core neural basis) plus its connections to the upper
+brain stem is sufficient for consciousness (i.e. is a total neural basis),
+or whether the total neural basis of face experience includes the
+frontal activation that underlies the cognitive access that itself un-
+derlies our ability to report our experience. But that question raises
+the issue of whether there can be face experience without cognitive
+accessibility, the very issue that we started with. So it looks as if the
+obvious methodology eats its own tail.
+
+Another variant of the problem: how can we find out whether
+there can be conscious experience without the cognitive accessibility
+required for reporting conscious experience, since any evidence
+would have to derive from reports that themselves derive from that
+cognitive access?
+
+Note that the problem cannot be solved by stipulating a defini-
+tion of ‘conscious’. Whatever definition one offered of this and oth-
+er terms, the puzzle could be put in still other terms: for example,
+there would still be the question of whether what it is like to have
+that experience includes whatever cognitive processes underlie our
+ability to report the experience.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 293
+The problem does not arise in the study of, for example, water.
+On the basis of the study of the nature of accessible water, we can
+know the properties of inaccessible water, for example, in environ-
+ments outside our light cone—that is, environments that are too far
+away in space and time for signals travelling at the speed of light to
+reach us. We have no problem in extrapolating from the observed to
+the unobserved and even unobservable in the case of water because
+we are antecedently certain that our cognitive access to water mole-
+cules is not part of the constitutive scientific nature of water itself.
+In homing in on a core neural basis of phenomenal consciousness,
+we have a choice about whether or not to include within the core
+neural basis the aspects of those neurological states that underlie re-
+portability. If we do, then unreportable phenomenally conscious
+states are ruled out; if we do not, unreportable phenomenally con-
+scious states are allowed. Few scientifically minded people in the
+twenty-first century would suppose that water molecules are partly
+constituted by our cognitive access to them (Boghossian 2006), but
+few would be sure whether phenomenal consciousness is or is not
+partly constituted by cognitive access to it. It is this asymmetry that
+is at the root of the Methodological Puzzle of phenomenal con-
+sciousness.
+
+V
+
+The Solution. The solution to the Methodological Puzzle is the
+method of inference to the best explanation, that is, the approach of
+looking for the framework that makes the most sense of all the data,
+not just reports (Harman 1965; Peirce 1903, vol. v, p. 171).
+
+The reader may feel that I have already canvassed inference to the
+best explanation and that it did not help. Recall that I mentioned
+that the best explanation of all the data about observed water can
+give us knowledge of unobserved—even unobservable—water. I
+said that this approach does not apply straightforwardly to con-
+sciousness. We are antecedently certain that our access to informa-
+tion about water molecules is not part of the natural kind that
+underlies water molecules themselves. But we are not certain (ante-
+cedently or otherwise) about whether our cognitive access to our
+own consciousness is partly constitutive of the consciousness. With-
+out antecedent knowledge of this—according to the reasoning that
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK294
+leads to the Methodological Puzzle—we cannot know whether
+whatever makes a phenomenal state cognitively inaccessible also
+renders it non-phenomenal.
+
+Here is the fallacy in that argument: the best theory of all the data
+may be one that lumps consciousness together with water molecules
+as something whose constitutive nature does not include cognitive
+access to it. To hold otherwise is to suppose—mistakenly—that
+there are antecedent views—or uncertainties, in this case—that are
+not up for grabs.
+
+Perhaps an analogy will help. It might seem, offhand, that it is im-
+possible to know the extent of errors of measurement, for any meas-
+urement of errors of measurement would have to be derived from
+measurement itself. But we can build models of the sources of meas-
+urement error and test them, and if necessary we can build models
+of the error in the first-level models, and so on, stopping when we
+get a good predictive fit. For example, the diameter of the moon can
+be measured repeatedly by a number of different techniques, the re-
+sults of which will inevitably vary about a mean. But perhaps the di-
+ameter of the moon is itself varying? That can be investigated by
+simultaneously building models of sources of variation in the diame-
+ter itself (for example, the temperature of the moon) and models of
+error in the various methods of measurement. Those models contain
+assumptions which can themselves be further tested.
+
+The puzzle of how it is possible to use measurement itself to un-
+derstand errors of measurement is not a deep puzzle. As soon as one
+sees the answer, the problem of principle falls away. I do not believe
+that the same is true for the Methodological Puzzle. One reason is
+the famous ‘explanatory gap’ (Levine 1983; Nagel 1974). There
+may be reasonable doubt whether the method of inference to the
+best explanation can apply in the face of the explanatory gap. A sec-
+ond point is that with the demise of verificationism (Uebel 2006),
+few would think that the nature of a physical magnitude such as
+length or mass is constitutively tied to our measurement procedures.
+The mass of the moon is what it is independently of our methods of
+ascertaining what it is. But verificationism in the case of conscious-
+ness is much more tempting—see Dan Dennett’s ‘first person opera-
+tionism’ (Dennett 1991) for a case in point.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 295
+VI
+
+Rich versus Sparse Experience. As I explained at the outset, this pa-
+per concerns the interplay between two issues, the Methodological
+Puzzle just canvassed and the issue of ‘rich’ versus ‘sparse’ conscious
+contents, the source of which, in current controversies, is a phenom-
+en-on called ‘change blindness’. As illustrated in figure 1, a drawing
+or photograph is presented briefly to subjects, followed by a blank,
+followed sometimes by an identical photograph but other times by a
+similar but not identical photograph, followed by another blank.
+Then the cycle starts over.
+
+Figure 1. The ‘change blindness’ paradigm. A picture is presented briefly, then a blank
+screen, then another picture which may or may not differ in some respect from
+the first one, then another blank, then the cycle starts over. The result is that sub-
+jects are surprisingly unable to tell what changes between the two pictures, even
+after watching the cycle many times. I am grateful to Ron Rensink for redrawing
+this figure and for permission to use it.
+
+You can experience something of the phenomenon if you look at fig-
+ures 2 and 3 without looking at them side by side. When the two
+photographs differ, they usually differ in one object that changes
+colour, shape or position or appears or disappears. The surprising
+result is that subjects are often unaware of the difference between
+the two pictures, even when the changed region takes up a good
+deal of the photographic real estate. Even with fifty repetitions of
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK296
+the same change over and over again, people are often unaware of
+the change. It is widely agreed that the phenomenon is an attention-
+al one. The items that change without detection have been shown to
+be items that the subjects do not attend to. But the controversial
+question is whether the explanation of the surprising inability of
+subjects to notice the change is due to inattentional blindness or in-
+attentional inaccessibility.
+
+Figure 2. Compare this with figure 3 without looking at the two figures side by side.
+There is a difference between the two pictures that can be hard to be aware of, a
+fact that motivates the appellation (a misnomer in my view) ‘change blindness’.
+I am grateful to Ron Rensink for supplying this figure.
+
+The idea of the inattentional blindness view of the phenomenon is
+that subjects do not actually see the features that change (Noë 2004,
+O’Regan and Noë 2001). By contrast, the inattentional inaccessibil-
+ity view (Block 2001) says that subjects may see the features that
+change, but fail to notice the difference, because although much of
+the detail in each picture is phenomenally registered, it is not con-
+ceptualized at a level that allows cognitive access to the difference.
+As Fred Dretske (2004) has noted, the difference between the two
+stimuli in a change blindness experiment can be one object that ap-
+pears or disappears, and one can be aware of that object that consti-
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 297
+tutes the difference without noticing that there is a difference. As
+will be explained below, there appears to be a limit in ‘working
+memory’ of about four items. (The existence of such a limit is not
+part of the dispute between the proponents of inattentional blind-
+ness and inattentional inaccessibility.) Proponents of inattentional
+blindness typically take this limit to show that despite the appear-
+ance of a rich visual world, one only sees about four items at a time,
+and thus that conscious experience is surprisingly ‘sparse’. The im-
+pression that one takes in many more things is supposed to derive
+from a ‘refrigerator light illusion’ in which subjects mistake the easy
+accessibility of all sorts of detail for actually seeing that detail
+(O’Regan and Noë 2001). (The analogy invokes a fool who thinks
+that the refrigerator light is always on because it is on when he
+looks.) Dehaene and his colleagues put the point as follows:
+
+The change blindness paradigm demonstrates this ‘discrepancy be-
+tween what we see and what we think we see’ (Simons and Ambinder
+2005). In this paradigm, viewers who claim to perceive an entire visu-
+al scene fail to notice when an important element of the scene changes.
+This suggests that, at any given time, very little of the scene is actually
+consciously processed. Interestingly, changes that attract attention or
+occur at an attended location are immediately detected. Thus, the illu-
+sion of seeing may arise because viewers know that they can, at will,
+orient attention to any location and obtain conscious information
+from it. (Dehaene et al. 2006, p. 210)
+
+The upshot is a disagreement about whether perceptual conscious-
+ness is ‘rich’ or ‘sparse’. The advocates of ‘sparse’ visual experience
+argue that the limits of working memory are the limits of experi-
+ence, whereas the advocates of rich experience can allow that expe-
+rience ‘overflows’ cognitive accessibility.
+
+Now we can get a glimpse of the relevance of the sparse/rich issue
+to the Methodological Puzzle. The argument of this paper is that we
+already have some evidence for the ‘rich’ view, and the upshot is that
+the capacity of the perceptual consciousness system is much larger
+than the capacity of the ‘working memory’ system that underlies the
+cognitive access that itself underlies reportability. And this difference
+in capacity shows that consciousness and cognitive access are to
+some extent based in different systems with different properties.
+
+I have mentioned the results about working memory, but I will
+now address that issue in more detail.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK298
+Figure 3. Compare this with figure 2 without looking at the two figures side by side.
+There is a difference that can be hard to see. I am grateful to Ron Rensink for
+supplying this figure.
+
+VII
+
+Working Memory. At a neural level, we can distinguish between
+memory that is coded in the active firing of neurons—and ceases
+when that neuronal firing ceases—and structural memory that de-
+pends on changes in the neural hardware itself, for example, change
+in strength of synapses. The active memory—which is active in the
+sense that it has to be actively maintained—is sometimes described
+as ‘short term’—a misdescription, since it lasts as long as active fir-
+ing lasts, which need not be a short time if the subject is actively re-
+hearsing. The term ‘working memory’ is used differently by
+different people (Cowan 2007), but in this article, the active memo-
+ry buffer is called ‘working memory’.
+
+You may have heard of a famous paper by George Miller called
+‘The Magical Number Seven, Plus or Minus Two: Some Limits on
+Our Capacity for Processing Information’ (Miller 1956). Although
+Miller was more circumspect, this paper has been widely cited as a
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 299
+manifesto for the view that there is a single active memory system in
+the brain that has a capacity of seven plus or minus two ‘items’.
+What is an item? There are some experimental results that fill this
+notion in a bit. For example, Huntley-Fenner et al. (2002) showed
+that infants’ visual object tracking system—which, there is some
+reason to believe, makes use of working memory representations—
+does not track piles of sand that are poured, but does track them if
+they are rigid. One constraint on what an item might be comes from
+some experiments that show that although we can remember only
+about four of them, we can also remember up to four features of
+each one. Luck and Vogel asked subjects to detect changes in a task
+somewhat similar to the Landman et al. task already mentioned.
+They found that subjects could detect changes in four features (col-
+our, orientation, size, and the presence or absence of a gap in a fig-
+ure) without being significantly less accurate than if they were asked
+to detect only one feature (Luck and Vogel 1997; Vogel, Woodman
+and Luck 2001).
+
+In the fifty years since Miller’s paper, reasons have emerged to
+question whether there really is a single active memory system, as
+opposed to a small number of linked systems connected to separate
+modalities and perhaps separate modules—for example, language.
+For example, some brain injuries damage verbal working memory
+but not spatial working memory (Basso, Speinnler, Vallar and Zano-
+bio 1982), and others have the opposite effect (Hanley, Young and
+Pearson 1991). And evidence has accumulated that the capacity of
+these working memories—especially visual working memory—is
+actually lower than seven items (Cowan 2001; Cowan, Morey and
+Chen 2006).
+
+The suggestion of seven items was originally made plausible by
+such facts as that if you read people lists of digits, words or letters,
+subjects can repeat back about seven of them. Of course, you can re-
+peat more items if they can be ‘chunked’. Few Americans will have
+trouble holding the following nine letters in mind: fbiciairs—
+because they can be chunked into three acronyms.
+
+More relevantly to our discussion, visual working memory exper-
+iments also come up with capacities in the vicinity of four—or less
+than four items. (For work that suggests less than four, see McElree
+2006.) Whether there is one working memory system that is used in
+all modalities or overlapping systems that differ to some extent be-
+tween modalities, this result is what is relevant to the experiments
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK300
+discussed above. Another paradigm that comes up with the same
+number involves the number of items that people—and monkeys—
+can effortlessly keep track of. For example, at a rhesus macaque
+monkey colony on a small island off Puerto Rico, Marc Hauser and
+his colleagues did the following experiment. Two experimenters find
+a monkey relaxing on its own. Each experimenter has a small buck-
+et and a pocket full of apple slices. The experimenters put down the
+buckets and one at a time, they conspicuously place a small number
+of slices in each bucket. Then they withdraw and check which buck-
+et the monkey goes to in order to get the apple slices. The result is
+that for numbers of slices equal to or smaller than four, the monkeys
+overwhelmingly choose the bucket with more slices. But if either
+bucket has more than four, the monkeys choose at random. In par-
+ticular, monkeys chose the greater number in comparison of one
+versus two, two versus three, and three versus four, but chose at ran-
+dom in cases of four versus five, four versus six, four versus eight
+and, amazingly, three versus eight. The comparison of the three ver-
+sus four case (where monkeys reliably chose more) and the three
+versus eight case (where they chose at random) is especially telling
+(Hauser, Carey and Hauser 2000). The eight apple slices simply
+overflowed working memory storage. Infant humans show similar
+results, although typically with a limit more in the vicinity of three
+rather than four (Feigenson, Carey and Hauser 2002). Using Gra-
+ham crackers instead of apple slices, Feigenson et al. found that in-
+fants would crawl to the bucket with more crackers in the cases of
+one versus two and two versus three, but were at chance in the case
+of one versus four. Again, four crackers overflows memory storage.
+In one interesting variant, infants are shown a closed container into
+which the experimenter—again conspicuously—inserts a small
+number of desirable objects (for example, M&Ms). If the number of
+M&Ms is one, two or three, the infant continues to reach into the
+container until all are removed, but if the number is more than
+three, infants reach into the container just once (Feigenson and
+Carey 2003).
+
+I should mention that the picture of working memory that I have
+been describing is a topic of active dispute. The two opposed models
+are the ‘slot’ model that I am relying on, in which working memory
+stores a small number of fixed-resolution representations, and a
+model according to which working memory is a pool of resources
+that can be allocated to many lower resolution representations. The
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 301
+‘slot’ model that I have been describing is described even by propo-
+nents of the ‘pool’ model (Bays and Husain 2008) as the ‘dominant
+model’. A recent article in Nature (Zhang and Luck 2008) purport-
+ed to settle the issue. According to an accompanying editorial,
+Zhang and Luck’s paper ‘resolves the matter in favour of the “high
+resolution” option’. However, a duelling article in Science (Bays and
+Husain 2008) purports to show the opposite, explaining away the
+Zhang and Luck result.
+
+One possible resolution is the argument of Xu and Chun (2006)
+that there are two different working memory systems with some-
+what different brain bases, one of which fits the ‘slot’ model and the
+other of which fits the ‘pool’ model. The system that fits the slot
+model is spatial and has a limit of four spatial locations or objects at
+four different spatial locations, independently of complexity. The
+system that fits the pool model is not spatially based.
+
+This dispute raises the difficult methodological issue of what phi-
+losophers are supposed to think when the scientists disagree and
+whether it makes sense for a philosopher to rely on a controversial
+scientific claim. My approach is to use scientific conclusions that are
+well confirmed and widely accepted by scientists even if there is
+some disagreement. Of course, a single experiment can sometimes
+turn the tables. The effect on the reasoning of this paper if the tables
+are turned would be a retreat from the claim that the Methodologi-
+cal Puzzle has actually been empirically resolved to showing how
+empirical data could in principle resolve it.
+
+VIII
+
+The Global Workspace Model. I will be assuming the global work-
+space model of cognitive access. The account presupposes a neural
+network approach in which there is competition among neural coa-
+litions involving both frontal and sensory areas (Koch 2004), the
+winning coalitions being conscious. Sensory stimulation causes acti-
+vations in sensory areas in the back of the head that compete with
+each other to form dominant coalitions (indicated by dark elements
+in the outer ring in figure 4). Some of these dominant coalitions trig-
+ger central reverberations via long range connections to frontal cor-
+tex, setting up activations that help to maintain both the central and
+peripheral activations. The idea that some brain areas control acti-
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK302
+vations and reactivations in other areas is now ubiquitous in neuro-
+science (Damasio and Meyer 2008), and one instance of reciprocal
+control is one in which workspace networks in frontal areas control
+activations in sensory and spatial areas (Curtis and D’Esposito
+2003). It is useful in thinking about the account to distinguish be-
+tween suppliers and consumers of representations. Perceptual sys-
+tems supply representations that are consumed by mechanisms of
+reporting, reasoning, evaluating, deciding, and remembering, which
+themselves produce representations that are further consumed by
+the same set of mechanisms. Once perceptual information is ‘global-
+ly broadcast’ in the frontal cortex this way, it is available to all cog-
+nitive mechanisms without further processing.
+
+Figure 4. Schematic diagram of the global workspace. Sensory activations in the back of
+the brain are symbolized by dots and lines in the outside ring. Dominant senso-
+ry neural coalitions (dark lines and dots) compete with one another to trigger
+reverberatory activity in the global workspace (located in frontal areas) in the
+centre of the diagram. The reverberatory activity in turn maintains the peripher-
+al excitation until a new dominant coalition wins out. I am grateful to Stanislas
+Dehaene for permission to use this drawing.
+
+One important feature of the global workspace model for philo-
+sophical purposes is that it makes it very easy to see a problematic
+ambiguity in the term ‘acccessibility’. What is it for a representation
+to be cognitively accessible? Is it a matter of actually being in the
+global workspace, or is it a matter of potentially being in the global
+workspace? Merely potentially in the global workspace would be
+too weak for a functional notion that has any hope of being identi-
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 303
+fied with consciousness, as endorsed by many functionalists these
+days (for example, Dehaene and Changeux 2004; Dehaene and
+Nacchache 2001; Dennett 2001). For example, a completely uncon-
+scious representation can be potentially in the global workspace be-
+cause it would be in if attention were shifted slightly.
+
+An experimental demonstration that shifting attention affects
+phenomenal consciousness to a degree sufficient to change a sub-
+threshold stimulus into a supra-threshold stimulus is to be found in
+a series of papers by Marisa Carrasco (Carrasco 2007; Carrasco,
+Ling and Read 2004) in which she asked subjects to report the ori-
+entation of the one of a pair of gratings that had the higher contrast.
+She presented an attention-attracting dot on one side of the screen
+or the other slightly before the pair of gratings. She showed that at-
+tention attracted to one side or the other could make a grating that
+was lower in contrast than the comparison seem higher in contrast.
+In subsequent work, Carrasco (2007) has been able to show precise-
+ly measurable effects of attentional shifts on other phenomenally
+conscious qualities, for example, perceived colour saturation.
+
+Dispositional notions like accessibility are notoriously flexible,
+depending on context. In this article I will require not just potential
+broadcasting for accessibility but actual global broadcasting. Actual
+global broadcasting does not itself require that any ‘consuming’ ma-
+chinery actually process the broadcast representation, so it is a no-
+tion involving potentiality.
+
+Jesse Prinz (2007b) distinguishes between three categories of rep-
+resentations: those that are not broadcast to working memory, those
+that are broadcast to working memory, and those that are encoded
+in working memory. He links consciousness to broadcasting. The
+picture he uses is one of a TV station broadcasting operation in
+which a movie can be waiting to be broadcast, actually broadcast
+but not encoded by any receiver, and encoded. But as attention to
+the model of figure 4 shows, there is no distinction between a repre-
+sentation having been broadcast and being encoded. What it is for a
+representation to be broadcast is for it to be part of a reverberating
+circuit including frontal areas and perceptual areas, and if that hap-
+pens it is automatically encoded; and further, according to the mod-
+el, there is no other kind of encoding in working memory.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK304
+IX
+
+Overflow. In this section, I will present the key empirical datum for
+my argument, an experiment by Landman et al. (2003). The subject is
+shown eight rectangles for half a second (or, in some versions, one
+second) as in a of figure 5. There is a dot in the middle which the sub-
+ject is supposed to fixate, that is, keep looking at. The array is re-
+placed by a blank screen for a variable period. Then another array
+appears in which a line points to one of the objects—which may or
+may not have changed orientation. In the example shown in figure 5,
+there is an orientation change. Using statistical procedures that cor-
+rect for guessing, Landman et al. computed a standard capacity meas-
+ure showing how many rectangles the subject is able to track. In a,
+subjects show a capacity of four items. Thus, the subjects are able to
+deploy working memory so as to access only half of the rectangles de-
+spite the fact that subjects reported seeing all or almost all of the rec-
+tangles. This is a classic ‘change blindness’ result. In b, the indicator
+of the rectangle that may or may not change comes on in the first pan-
+el. Not surprisingly, subjects can get almost all right: their capacity
+measure is almost eight. The crucial manipulation is the last one: the
+indicator comes on during the blank after the original rectangles have
+gone off. If the subjects are continuing to maintain a visual represen-
+tation of the whole array and reading their answers off of it—as sub-
+jects say they are doing—the difference between c and b will be
+small, and that is in fact what is observed. The capacity measure in c
+is between six and seven for up to 1.5 seconds after the first stimulus
+has been turned off, suggesting that subjects are able to maintain a
+visual representation of the rectangles. This backs up what the sub-
+jects say and what William James said about the phenomenal con-
+sciousness involved in this kind of case. What is both conscious and
+accessible is that there is a circle of rectangles. What is conscious but
+in a sense not accessible, is all the specific shapes of the rectangles.
+
+There is some reason to think that the longest lasting visual repre-
+sentations of this sort come with practice and when subjects learn to
+‘see (and not look)’. Sligte, Lamme and Scholte (2006) did a more
+elaborate version of the Landman experiment, finding long persist-
+ences, up to four seconds with lots of practice and instructions to re-
+lax and let it happen. Others (Long 1980; Yang 1999) have noted
+that practice in partial report paradigms makes a big difference in
+subjects’ ability to make the experience last.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 305
+Figure 5. Landman et al.’s change blindness paradigm. The rectangles are displayed here
+as line drawings, but the actual stimuli were defined by textures. From Lamme
+(2003). I am grateful to Victor Lamme for providing the drawing, and to Elsevi-
+er for permission to reprint it.
+
+The main upshot of the Landman and Sligte experiments (at least
+on the surface—debunking explanations will be considered later) is
+that the subject has persisting experiences as of more specific shapes
+than can be brought under the concepts required to report or com-
+pare those specific shapes with others. They can all be brought un-
+der the concept ‘rectangle’ in the Landman experiment or ‘letter’ in
+the Sperling experiment, but not the specific orientation-concept
+which would be required to make the comparisons in Landman or
+to report the letters in Sperling.
+
+Why are subjects able to gain access to so few of the items that
+they see in the first condition of the Landman experiment (i.e. as de-
+scribed in a of figure 5)? I am suggesting that the explanation is that
+the ‘capacity’ of the visual phenomenal memory system, is greater
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK306
+than that of the working memory buffer that governs reporting. The
+capacity of visual phenomenal memory could be said to be at least
+eight to thirty-two objects—at any rate for stimuli of the sort used in
+the described experiments. This is suggested by subjects’ reports that
+they can see all or almost all eight items in the Landman experiment
+and up to thirty-two items in the Sligte experiment in the presented
+arrays, and by the experimental manipulations just mentioned in
+which subjects can give reports which exhibit the subjects’ apprehen-
+sion of all or almost all the items. The lines of converging evidence
+mentioned above suggest that the ‘working memory’ system—the
+‘global workspace’—has a capacity of about four items (or less) in
+adult humans and monkeys and three (or less) in infants.
+
+Given that the capacities of these systems are different, it follows
+that the systems themselves cannot completely coincide, and in par-
+ticular, there must be something more to the consciousness system
+that explains its greater capacity. So it is indeed possible to investi-
+gate the difference between consciousness and cognitive accessibili-
+ty. This is the basic empirical argument of the paper.
+
+There are two crucial features of the Landman phenomenon for
+my purposes. The most obvious one is the high capacity phenome-
+nal consciousness just mentioned, but it is also important that this
+high capacity phenomenal consciousness occurs after the stimulus is
+long gone, because it is no news that there are lots of things in the
+world and high capacity representations in the retina! A crucial part
+of my argument—left out here for reasons of space—is to detail the
+evidence that the high capacity depends most proximally on con-
+scious representations themselves. See Block (2007a, 2007b).
+
+X
+
+Generic versus Specific Phenomenal Consciousness. A key concept in
+the argument alluded to above but not explicitly is the distinction be-
+tween generic and specific contents of phenomenal consciousness
+(Block 2007a, 2007b; Burge 2007; Byrne, Hilbert and Siegel 2007;
+Grush 2007; Levine 2007; Papineau 2007). In the Landman experi-
+ment, the relevant generic phenomenal content would be the phenom-
+enal presentation that there is a circle of rectangles. The relevant
+specific phenomenal content would be a phenomenal presentation
+that specifies for each of the rectangles (or anyway, most of them)
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 307
+whether it is horizontal or vertical. My argument was that before the
+cue, there is specific phenomenal content for all or almost all items. (I
+also think there is generic phenomenal content before the cue, but that
+does not figure in the argument.) This specific phenomenal content is
+what justifies the claim that the capacity of the phenomenal system is
+more than four, whereas the capacity of the access system is four or
+less, and thus that the two systems cannot completely coincide. But
+critics (Byrne et al. 2007; Papineau 2007) have challenged the premiss
+that there are more than four items of specific phenomenal content be-
+fore the cue. It is important to recognize that the objectors have to
+agree that before the cue there are specific (not just generic) visual rep-
+resentations of all or almost all of the eight to thirty-two items. There
+have to be such specific representations, given that any location can be
+cued with high accuracy of response. The locus of controversy is
+whether those specific representations are phenomenally conscious.
+
+A number of critics (Byrne et al. 2007; Naccache and Dehaene
+2007; van Gulick 2007) have alleged that subjects are subject to a
+kind of illusion that they have rich specific phenomenal conscious-
+ness. The illusion could be said to be a product of two factors, that
+the subjects have generic phenomenal content (to the effect that
+there are five to ten rectangles arranged in a circle) and that when
+they attend to a specific location, they find that they have specific
+phenomenal content for that location. According to the objection,
+the ‘refrigerator light illusion’ leads subjects to suppose that they
+have rich specific phenomenal content even though their specific
+phenomenal content is really sparse.
+
+What shows that there is rich specific phenomenally conscious
+content (in addition to the agreed-on generic phenomenally con-
+scious content)? First, subjects consistently say that they are simply
+basing their answers on their visual experience. In the Sligte version
+of the Landman experiment, the visual experiences last for four to
+five seconds, and it is plausible that subjects would be likely to be
+accurate about something they see for such a long period. Second,
+subjects are attending to arrays in full view in good viewing condi-
+tions to stimuli that last between half a second and a second, more
+than enough time for specific phenomenal content. Third, it is not
+easy to understand what the alternative is. Is the idea that there is
+literally zero specific phenomenally conscious content of the rectan-
+gles before the cue, and then one item of specific phenomenally con-
+scious content after the cue, as indicated in figure 6? It does seem as
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK308
+if the phenomenal content were as depicted in figure 6, subjects
+could report that, which they very much do not do. Or perhaps the
+phenomenal content is as depicted in figure 7. Before the cue, a ran-
+dom collection of half the rectangles are specifically conscious.
+However, that random collection could be expected to contain the
+item that is cued only half the time. So half the time, one of the spe-
+cifically conscious items would have to disappear, replaced by the
+cued item as depicted on the right side of figure 7. I have never
+heard of any subject reporting any such thing in any of the myriad
+experiments of this type. There are other hypotheses as well, but I
+can’t think of any—even ones that are not easily picturable—that
+fit at all well with reported phenomenal consciousness of subjects. A
+better account is that subjects should be believed in saying that they
+have experiences of all or most of the rectangles, that is, specific
+phenomenal contents. Fourth, there is evidence that the subjects’
+representations are a kind of mental image. In one variation, Land-
+man et al. did the same experiment as before but changed the size of
+the rectangles rather than the orientation, and then in a final experi-
+
+Figure 7. Hypothesis 2 concerning specific phenomenal consciousness in the Landman et
+al. experiment.
+
+Figure 6. Hypothesis 1 concerning specific phenomenal consciousness in the Landman et
+al. experiment.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 309
+ment changed either the size or the orientation. The interesting re-
+sult is that subjects were no worse at detecting changes in either ori-
+entation or size than they were at detecting changes in size alone.
+That suggests that the subjects have a representation of the rectan-
+gles that combines size and orientation from which either one can
+be recovered with no loss due to the dual task, again backing up
+subjects’ reports that indicate a kind of visual imagery.
+
+Here is a fifth consideration: Vincent Di Lollo (1980) originated a
+paradigm using a five-by-five grid in which all but one of the
+squares is filled with a dot. Subjects see a partial grid with twelve of
+the dots filled in, then after a delay, another partial grid with a dif-
+ferent twelve dots filled in. The subjects’ task is to report which
+square has a missing dot, something they can do easily if they have a
+visual impression as of the whole matrix of dots. Loftus and Irwin
+(1998) show that subjects’ ability to do the task correlates nearly
+perfectly with their phenomenological judgements of whether there
+appears to be a whole matrix rather than two partial matrices.
+Brockmole, Wang and Irwin (2002) delayed the appearance of the
+second partial grid for as long as five seconds, telling subjects that a
+good strategy was to ‘imagine the dots still being present after they
+disappeared’ (2002, p. 317). Subjects had to remember the first par-
+tial grid and superimpose it on the second partial grid (which was
+still on the screen) to see where the missing dot was. The subjects’
+memory capacity for the twelve dots in the first grid can be comput-
+ed by the type of errors made. When the delay between the first and
+second partial grids is 100 ms, the subjects’ retention capacity falls
+from twelve to 4.1 of the dots in the first partial grid (see figure 8).
+The striking result was that with delays over 100 ms, subjects’ ca-
+pacity then increased, asymptoting at a delay of about 1.5 seconds,
+at which time their capacity was more than ten of twelve dots, and
+the capacity stayed that high for delays up to four to five seconds.
+(See the dotted line in figure 8, which represents the percentage of
+dots remembered from the first partial grid.) Independent estimates
+of the time to generate a mental image by Kosslyn (Kosslyn,
+Thompson and Ganis 2006) are between one and two seconds, and
+the authors argue that the subjects were following instructions, gen-
+erating a visual image of the first array, and integrating that visual
+image with the percept of the second array. This result constitutes
+converging evidence for high capacity specific phenomenal con-
+sciousness: the subjects say they have an image, and what they say is
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK310
+confirmed by their performance. The upshot is that there is a com-
+pletely different paradigm in which the evidence favours high capac-
+ity specific phenomenal consciousness.
+
+Figure 8. In Brockmole et al.’s experiment, a twelve-dot partial grid is presented briefly,
+then a period of time elapses (the interstimulus interval), then a second twelve-dot
+partial grid is presented and stays on the screen. The subjects are asked to report
+the missing dot. This graph shows that for interstimulus intervals between one
+and five seconds, subjects are very accurate in reporting the missing dot. From
+Brockmole et al. (2002). With permission of the American Psychological Associ-
+ation. I am grateful to James Brockmole for providing me with a redrawn figure.
+
+Of course, my eventual conclusion is that people can be dramatically
+mistaken about their own experience, so some critics may use that as
+a reason to say that subjects in the Landman and Sligte and Brock-
+mole experiments are dramatically mistaken about the contents of
+their own phenomenal consciousness. But there is no reason to dis-
+trust these subjects, whereas the subject GK, mentioned earlier, does
+have brain damage that prevents attention to the left side of space
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 311
+when there is a competing stimulus on the right, so there is a real
+question as to whether he might see something on the left that he
+cannot report because of lack of attention. Further, in visuo-spatial
+extinction generally, the subject’s claim not to see the object on the
+left is often combined with the ability to make comparisons between
+the thing on the left and the thing on the right (Verfaellie, Milberg,
+McGlinchey-Berroth, Grande and D’Esposito 1995; Volpe, LeDoux
+and Gazzaniga 1979). For example, when asked to make a ‘same/dif-
+ferent’ comparison between objects on the left and right, two of the
+subjects in the Volpe et al. experiment asserted ‘that the task was
+“silly”’, since there was no stimulus on the left, but these subjects
+were nonetheless more than 88% correct on the same/different
+judgements.
+
+XI
+
+Panpsychic Disaster. A number of commentators argued that once
+you give up the special authority of reports, you will have no way of
+avoiding attributing consciousness to lampposts. Papineau (2007)
+notes that I regard some states as uncontroversially unconscious and
+wonders ‘what makes a state “uncontroversially unconscious” if it
+is not that subjects tell us so’. He argues that once we allow that a
+state can be conscious even though normal subjects systematically
+deny it, there may be no uncontroversially unconscious states. Prinz
+(2007a) says, ‘Block must either concede that reports are authorita-
+tive or deny that we can rule out the possibility of conscious states
+in v1, the lgn, and the retinae.’
+
+However, it is obvious that reports fail to be authoritative. In An-
+ton’s syndrome, subjects are blind but think and report that they see.
+More generally, anosognosics deny their perceptual and motor disa-
+bilities, making all sorts of false reports about their own experience.
+Generally, in cognitive neuroscience, aspects of phenomena found in
+brain-damaged patients can be produced in some degree in normal
+subjects with stimuli that are degraded or speeded or in other stress-
+ful conditions. Introspective reports do have a certain priority: we
+have no choice but to start with reports in investigating conscious-
+ness. But reports can be overridden on the basis of theory—that is
+itself based on other reports. One very notable form of empirical ev-
+idence that can conflict with reports is evidence about subjects’ deci-
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK312
+sion process evaluated according to signal detection theory
+(Snodgrass and Lepisto 2007). The signal detection theory perspec-
+tive dictates that there is no such thing as a raw report uncontami-
+nated by decision processes.
+
+XII
+
+Conclusion. I started with a methodological puzzle which in one
+form is: how could we possibly find out whether there can be con-
+scious experience without the cognitive accessibility required for re-
+porting conscious experience, since any evidence would have to
+derive from reports that themselves derive from that cognitive acces-
+sibility? I then argued that the method of inference to the best expla-
+nation can in principle allow for evidence that separates phenomenal
+consciousness from cognitive accessibility, since the overall model in
+which phenomenal consciousness goes beyond cognitive accessibility
+might turn out to be better supported than the alternatives. I then de-
+scribed the controversy over rich versus sparse phenomenal con-
+sciousness and argued that the sparse phenomenal consciousness
+point of view fits naturally with the view that phenomenal conscious-
+ness does not go beyond cognitive accessibility. Finally, I presented
+evidence for a point of view that combines rich phenomenal con-
+sciousness with a picture of phenomenal consciousness as depending
+on at least somewhat different machinery from cognitive accessibili-
+ty. Of course, this does not show that there can be phenomenal con-
+sciousness without cognitive accessibility as entertained in the case of
+patient GK, but it does take a step in that direction.
+
+Department of Philosophy
+New York University
+
+Room 405
+5 Washington Place
+
+New York, ny 10003
+usa
+
+ned.block@nyu.edu
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 313
+REFERENCES
+
+Aimola Davies, A. M. 2004: ‘Disorders of spatial orientation and aware-
+ness’. Cognitive and Behavioral Rehabilitation: From Neurobiology to
+Clinical Practice, pp. 175–223. New York: The Guilford Press.
+
+Alkire, M. T. 2008: ‘General Anesthesia and Consciousness’. In S. Laureys
+(ed.), The Neurology of Consciousness: Cognitive Neuroscience and
+Neuropathology. Amsterdam: Elsevier.
+
+——and J. Miller 2005: ‘General anesthesia and the neural correlates of
+consciousness’. Progress in Brain Research, 150, pp. 229–44.
+
+Basso, A., H. Speinnler, G. Vallar and M. E. Zanobio 1982: ‘Left hemi-
+sphere damage and selective impairment of auditory verbal short term
+memory: A case study’. Neuropsychologia, 20, pp. 263–74.
+
+Bays, P. M., and M. Husain 2008: ‘Dynamic Shifts of Limited Working
+Memory Resources in Human Vision’. Science, 321, pp. 851–4.
+
+Block, N. 2001: ‘Paradox and cross purposes in recent work on conscious-
+ness’. Cognition, 79(1–2), pp. 197–220.
+
+——2005: ‘Two Neural Correlates of Consciousness’. Trends in Cognitive
+Sciences, 9(2), pp. 46–52.
+
+——2007a: ‘Consciousness, accessibility, and the mesh between psychology
+and neuroscience’. Behavioral and Brain Sciences, 30, pp. 481–548.
+
+——2007b: ‘Overflow, access and attention’. Behavioral and Brain Scienc-
+es, 30, pp. 530–42.
+
+——forthcoming: ‘Comparing the major theories of consciousness’. In
+M. S. Gazzaniga (ed.), The Cognitive Neurosciences iv. Cambridge, ma:
+MIT Press.
+
+Boghossian, P. A. 2006: Fear of Knowledge: Against Relativism and Con-
+structivism. New York: Oxford University Press.
+
+Brockmole, J. R., R. F. Wang and D. E. Irwin 2002: ‘Temporal Integration
+Between Visual Images and Visual Percepts’. Journal of Experimental
+Psychology: Human Perception and Performance, 28(2), pp. 315–34.
+
+Burge, T. 2007: ‘Psychology supports independence of phenomenal con-
+sciousness’. Behavioral and Brain Sciences, 30(5/6), pp. 500–1.
+
+Byrne, A., D. R. Hilbert and S. Siegel 2007: ‘Do we see more than we can
+access?’. Behavioral and Brain Sciences, 30(5/6), pp. 501–2.
+
+Carrasco, M. 2007: ‘Attention, cognitive models of’. In P. Wilken, T. Bayne
+and A. Cleeremans (eds.), Oxford Companion to Consciousness. Ox-
+ford: Oxford University Press.
+
+Carrasco, M., S. Ling and S. Read 2004: ‘Attention alters appearance’. Na-
+ture Neuroscience, 7, pp. 308–13.
+
+Chalmers, D. 2000: ‘What is a Neural Correlate of Consciousness?’. In
+T. Metzinger (ed.), Neural Correlates of Consciousness: Empirical and
+Conceptual Issues, pp. 17–40. Cambridge, ma: MIT Press.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK314
+Cowan, N. 2001: ‘The magical number 4 in short-term memory: A recon-
+sideration of mental storage capacity’. Behavioral and Brain Sciences,
+24, pp. 87–185.
+
+——2007: ‘What are the differences between long-term, short-term and
+working memory?’. In W. Sossin, J.-C. Jacaille, V. F. Castellucci and
+S. Belleville (eds.), The Essence of Memory. Amsterdam: Elsevier/Aca-
+demic Press.
+
+——C. Morey and Z. Chen 2006: ‘The Legend of the Magical Number Sev-
+en’. In S. Della Sala (ed.), Tall Tales About the Brain: Things We Think We
+Know About the Mind, But Ain’t So. Oxford: Oxford University Press.
+
+Curtis, C., and M. D’Esposito 2003: ‘Persistent activity in the prefrontal
+cortex during working memory’. Trends in Cognitive Sciences, 7(9),
+pp. 415–23.
+
+Damasio, A., and K. Meyer 2008: ‘Behind the looking-glass’. Nature, 454,
+pp. 167–8.
+
+Dehaene, S., and L. Nacchache 2001: ‘Towards a cognitive neuroscience of
+consciousness: Basic evidence and a workspace framework’. Cognition,
+79, pp. 1–37.
+
+Dehaene, S., and J.-P. Changeux 2004: ‘Neural mechanisms for access to
+consciousness’. In M. Gazzaniga (ed.), The Cognitive Neurosciences iii,
+pp. 1145–58. Cambridge, ma: MIT Press.
+
+——L. Nacchache, J. Sackur and C. Sergent 2006: ‘Conscious, precon-
+scious, and subliminal processing: a testable taxonomy’. Trends in Cog-
+nitive Sciences, 10, pp. 204–11.
+
+Dennett, D. C. 1991: Consciousness Explained. Boston, ma: Little, Brown.
+——2001: ‘Are we explaining consciousness yet?’. Cognition, 79, pp. 221–37.
+Di Lollo, V. 1980: ‘Temporal integration in visual memory’. Journal of Ex-
+
+perimental Psychology: General, 109, pp. 75–97.
+Dretske, F. 2004: ‘Change Blindness’. Philosophical Studies, 120(1–3),
+
+pp. 1–18.
+Driver, J., and P. Vuilleumier 2001: ‘Perceptual awareness and its loss in
+
+unilateral neglect and extinction’. Cognition, 79(1–2), pp. 39–88.
+Feigenson, L., and S. Carey 2003: ‘Tracking individuals via object files: Evi-
+
+dence from infants’ manual search’. Developmental Science, 6, pp. 568–
+84.
+
+—— and M. Hauser 2002: ‘The representations underlying infants’ choice
+of more: Object files vs. analog magnitudes’. Psychological Science, 13,
+pp. 150–6.
+
+Grush, R. 2007: ‘A plug for generic phenomenology’. Behavioral and Brain
+Sciences, 30(5/6), pp. 504–5.
+
+Hanley, J. R., H. W. Young and N. A. Pearson 1991: ‘Impairment of visuo-
+spatial sketch pad’. Quarterly Journal of Experimental Psychology, 43a,
+pp. 101–25.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 315
+Harman, G. 1965: ‘The Inference to the Best Explanation’. Philosophical
+Review, 74(1), pp. 88–95.
+
+Hauser, M., S. Carey and L. Hauser 2000: ‘Spontaneous number represen-
+tation in semi-free ranging rhesus monkeys’. Proceedings of the Royal
+Society of London: Biological Sciences, 267, pp. 829–33.
+
+Huntley-Fenner, G., S. Carey and A. Solimando 2002: ‘Objects are individ-
+uals but stuff doesn’t count: Perceived rigidity and cohesiveness influence
+infants’ representations of small numbers of discrete entities’. Cognition,
+85, pp. 203–21.
+
+Kanwisher, N. 2001: ‘Neural events and perceptual awareness’. Cognition,
+79, pp. 89–113.
+
+Koch, C. 2004: The Quest for Consciousness: A Neurobiological Ap-
+proach. Englewood, co: Roberts and Company.
+
+Kosslyn, S. M., W. L. Thompson and G. Ganis 2006: The Case for Mental
+Imagery. Oxford: Oxford University Press.
+
+Lamme, V. 2003: ‘Why visual attention and awareness are different’.
+Trends in Cognitive Sciences, 7, pp. 12–18.
+
+Landman, R., H. Spekreijse and V. A. F. Lamme 2003: ‘Large capacity stor-
+age of integrated objects before change blindness’. Vision Research, 43,
+pp. 149–64.
+
+Levine, J. 1983: ‘Materialism and Qualia: the Explanatory Gap’. Pacific
+Philosophical Quarterly, 64, pp. 354–61.
+
+——2007: ‘Two kinds of access’. Behavioral and Brain Sciences, 30(5/6),
+pp. 514–15.
+
+Loftus, G., and D. Irwin 1998: ‘On the Relations among Different Meas-
+ures of Visible and Informational Persistence’. Cognitive Psychology, 35,
+pp. 135–99.
+
+Long, G. 1980: ‘Iconic Memory: A review and critique of the study of short
+term visual storage’. Psychological Bulletin, 88, pp. 785–820.
+
+Luck, S. J., and E. K. Vogel 1997: ‘The capacity of visual working memory
+for features and conjunctions’. Nature, 390, pp. 279–81.
+
+McElree, B. 2006: ‘Accessing Recent Events’. In B. H. Ross (ed.), The Psy-
+chology of Learning and Motivation, vol. 46, pp. 155–201. San Diego:
+Academic Press.
+
+Miller, G. 1956: ‘The Magical Number Seven, Plus or Minus Two: Some
+Limits on Our Capacity for Processing Information’. Psychological Re-
+view, 63, pp. 81–97.
+
+Naccache, L., and S. Dehaene 2007: ‘Reportability and illusions of phe-
+nomenality in the light of the global neuronal workspace model’. Behav-
+ioral and Brain Sciences, 30, pp. 518–19.
+
+Nagel, T. 1974: ‘What Is it Like to Be a Bat?’. Philosophical Review, 83(4),
+pp. 435–50.
+
+Noë, A. 2004: Action in Perception. Cambridge, ma: MIT Press.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+NED BLOCK316
+O’Craven, K., and N. Kanwisher 2000: ‘Mental imagery of faces and places
+activates corresponding stimulus-specific brain regions’. Journal of Cog-
+nitive Neuroscience, 12, pp. 1013–23.
+
+O’Regan, J. K., and A. Noë 2001: ‘A sensorimotor approach to vision and
+visual consciousness’. Behavioral and Brain Sciences, 24, pp. 883–975.
+
+Papineau, D. 2007: ‘Reuniting (scene) phenomenology with (scene) access’.
+Behavioral and Brain Sciences, 30(5/6), p. 521.
+
+Peirce, C. S. 1903: Collected Papers of Charles Sanders Peirce. Cambridge,
+ma: Harvard University Press.
+
+Peli, E., and D. Peli 2002: Driving with Confidence: A Practical Guide to
+Driving with Low Vision. Singapore: World Scientific Publishing Com-
+pany.
+
+Prinz, J. J. 2007a: ‘Accessed, accessible, and inaccessible: Where to draw
+the phenomenal line’. Behavioral and Brain Sciences, 30, pp. 521–2.
+
+——2007b: ‘Mental Pointing: Phenomenal Knowledge without Phenome-
+nal Concepts’. Journal Of Consciousness Studies, 14(9–10), pp. 184–
+211.
+
+Rees, G., E. Wojciulik, K. Clarke, M. Husain, C. Frith and J. Driver 2000:
+‘Unconscious activations of visual cortex in the damaged right hemi-
+sphere of a parietal patient with extinction’. Brain, 123(8), pp. 1624–33.
+
+——2002: ‘Neural correlates of conscious and unconscious vision in pari-
+etal extinction’. Neurocase, 8, pp. 387–93.
+
+Shoemaker, S. 1981: ‘Some Varieties of Functionalism’. Philosophical Top-
+ics, 12, pp. 93–119.
+
+Simons, D. J., and M. Ambinder 2005: ‘Change blindness: Theory and Con-
+sequences’. Current Directions in Psychological Science, 14, pp. 44–8.
+
+Sligte, I. G., V. A. F. Lamme and H. S. Scholte 2006: ‘Capacity Limits to
+Awareness’. Paper presented at the Association for the Scientific Study of
+Consciousness, Oxford, uk.
+
+Snodgrass, M., and S. A. Lepisto 2007: ‘Access for what? Reflective con-
+sciousness’. Behavioral and Brain Sciences, 30(5/6), pp. 525–6.
+
+Tong, F., K. Nakayama, J. T. Vaughan and N. Kanwisher 1998: ‘Binocular
+Rivalry and Visual Awareness in Human Extrastriate Cortex’. Neuron,
+21(4), pp. 753–9.
+
+Tononi, G., and C. Koch 2008: ‘The Neural Correlates of Consciousness:
+An Update’. Annals of the New York Academy of Sciences, 1124,
+pp. 239–61.
+
+Uebel, T. 2006: ‘Vienna Circle’. The Stanford Encyclopedia of Philosophy,
+Fall 2006 edition, ed. Edward N. Zalta.
+
+van Gulick, R. 2007: ‘What if phenomenal consciousness admits of de-
+grees?’. Behavioral and Brain Sciences, 30(5/6), pp. 528–9.
+
+Verfaellie, M., W. P. Milberg, R. McGlinchey-Berroth, L. Grande and
+M. D’Esposito 1995: ‘Comparison of cross-field matching and forced-
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+
+PHENOMENAL AND ACCESS CONSCIOUSNESS 317
+choice identification in hemispatial neglect’. Neuropsychology, 9,
+pp. 427–34.
+
+Vogel, E. K., G. F. Woodman and S. J. Luck 2001: ‘Storage of features, con-
+junctions and objects in visual working memory’. Journal of Experimen-
+tal Psychology: Human Perception and Performance, 27, pp. 92–114.
+
+Volpe, B. T., J. E. LeDoux and M. S. Gazzaniga 1979: ‘Information process-
+ing of visual stimuli in an extinguished field’. Nature, 282, pp. 722–4.
+
+Xu, Y., and M. M. Chun 2006: ‘Dissociable neural mechanisms supporting
+visual short-term memory for objects’. Nature, 440 (2 March), pp. 91–5.
+
+Yang, W. 1999: Lifetime of Human Visual Sensory Memory: Properties and
+Neural Substrate. New York: New York UniversityPress.
+
+Zeki, S. 2001: ‘Localization and globalization in conscious vision’. Annual
+Review of Neuroscience, 24, pp. 57–86.
+
+——and A. Bartels 1999: ‘Toward a theory of visual consciousness’. Con-
+sciousness and Cognition, 8, pp. 225–59.
+
+Zhang, W., and S. J. Luck 2008: ‘Discrete fixed-resolution representations
+in visual working memory’. Nature, 453, pp. 233–7.
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 3
+
+doi: 10.1111/j.1467-9264.2008.00247.x
+
+
+	Consciousness and Cognitive Access - Ned Block
+	I. Introduction
+	II. An Illustration
+	III. The Self
+	IV. The Methodological Puzzle
+	V. The Solution
+	VI. Rich versus Sparse Experience
+	VII. Working Memory
+	VIII. The Global Workspace Model
+	IX. Overflow
+	X. Generic versus Specific Phenomenal Consciousness
+	XI. Panpsychic Disaster
+	XII. Conclusion
+	References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<
+  /ASCII85EncodePages false
+  /AllowTransparency false
+  /AutoPositionEPSFiles true
+  /AutoRotatePages /All
+  /Binding /Left
+  /CalGrayProfile (Dot Gain 20%)
+  /CalRGBProfile (sRGB IEC61966-2.1)
+  /CalCMYKProfile (U.S. Web Coated \050SWOP\051 v2)
+  /sRGBProfile (sRGB IEC61966-2.1)
+  /CannotEmbedFontPolicy /Error
+  /CompatibilityLevel 1.2
+  /CompressObjects /Tags
+  /CompressPages true
+  /ConvertImagesToIndexed true
+  /PassThroughJPEGImages true
+  /CreateJDFFile false
+  /CreateJobTicket false
+  /DefaultRenderingIntent /Default
+  /DetectBlends true
+  /ColorConversionStrategy /LeaveColorUnchanged
+  /DoThumbnails true
+  /EmbedAllFonts true
+  /EmbedJobOptions true
+  /DSCReportingLevel 0
+  /EmitDSCWarnings false
+  /EndPage -1
+  /ImageMemory 1048576
+  /LockDistillerParams false
+  /MaxSubsetPct 100
+  /Optimize true
+  /OPM 1
+  /ParseDSCComments true
+  /ParseDSCCommentsForDocInfo true
+  /PreserveCopyPage true
+  /PreserveEPSInfo true
+  /PreserveHalftoneInfo false
+  /PreserveOPIComments false
+  /PreserveOverprintSettings true
+  /StartPage 1
+  /SubsetFonts true
+  /TransferFunctionInfo /Apply
+  /UCRandBGInfo /Preserve
+  /UsePrologue false
+  /ColorSettingsFile ()
+  /AlwaysEmbed [ true
+  ]
+  /NeverEmbed [ true
+  ]
+  /AntiAliasColorImages false
+  /DownsampleColorImages true
+  /ColorImageDownsampleType /Average
+  /ColorImageResolution 299
+  /ColorImageDepth -1
+  /ColorImageDownsampleThreshold 1.50167
+  /EncodeColorImages true
+  /ColorImageFilter /DCTEncode
+  /AutoFilterColorImages true
+  /ColorImageAutoFilterStrategy /JPEG
+  /ColorACSImageDict <<
+    /QFactor 0.15
+    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
+  >>
+  /ColorImageDict <<
+    /QFactor 0.15
+    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
+  >>
+  /JPEG2000ColorACSImageDict <<
+    /TileWidth 256
+    /TileHeight 256
+    /Quality 30
+  >>
+  /JPEG2000ColorImageDict <<
+    /TileWidth 256
+    /TileHeight 256
+    /Quality 30
+  >>
+  /AntiAliasGrayImages false
+  /DownsampleGrayImages true
+  /GrayImageDownsampleType /Bicubic
+  /GrayImageResolution 300
+  /GrayImageDepth -1
+  /GrayImageDownsampleThreshold 1.50000
+  /EncodeGrayImages true
+  /GrayImageFilter /DCTEncode
+  /AutoFilterGrayImages true
+  /GrayImageAutoFilterStrategy /JPEG
+  /GrayACSImageDict <<
+    /QFactor 0.15
+    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
+  >>
+  /GrayImageDict <<
+    /QFactor 0.15
+    /HSamples [1 1 1 1] /VSamples [1 1 1 1]
+  >>
+  /JPEG2000GrayACSImageDict <<
+    /TileWidth 256
+    /TileHeight 256
+    /Quality 30
+  >>
+  /JPEG2000GrayImageDict <<
+    /TileWidth 256
+    /TileHeight 256
+    /Quality 30
+  >>
+  /AntiAliasMonoImages false
+  /DownsampleMonoImages true
+  /MonoImageDownsampleType /Bicubic
+  /MonoImageResolution 1200
+  /MonoImageDepth -1
+  /MonoImageDownsampleThreshold 1.50000
+  /EncodeMonoImages true
+  /MonoImageFilter /CCITTFaxEncode
+  /MonoImageDict <<
+    /K -1
+  >>
+  /AllowPSXObjects false
+  /PDFX1aCheck false
+  /PDFX3Check false
+  /PDFXCompliantPDFOnly false
+  /PDFXNoTrimBoxError true
+  /PDFXTrimBoxToMediaBoxOffset [
+    0.00000
+    0.00000
+    0.00000
+    0.00000
+  ]
+  /PDFXSetBleedBoxToMediaBox true
+  /PDFXBleedBoxToTrimBoxOffset [
+    0.00000
+    0.00000
+    0.00000
+    0.00000
+  ]
+  /PDFXOutputIntentProfile (None)
+  /PDFXOutputCondition ()
+  /PDFXRegistryName ()
+  /PDFXTrapped /False
+
+  /DetectCurves 0.000000
+  /EmbedOpenType false
+  /ParseICCProfilesInComments true
+  /PreserveDICMYKValues true
+  /PreserveFlatness true
+  /CropColorImages true
+  /ColorImageMinResolution 300
+  /ColorImageMinResolutionPolicy /OK
+  /ColorImageMinDownsampleDepth 1
+  /CropGrayImages true
+  /GrayImageMinResolution 300
+  /GrayImageMinResolutionPolicy /OK
+  /GrayImageMinDownsampleDepth 2
+  /CropMonoImages true
+  /MonoImageMinResolution 1200
+  /MonoImageMinResolutionPolicy /OK
+  /CheckCompliance [
+    /None
+  ]
+  /PDFXOutputConditionIdentifier ()
+  /Description <<
+    /CHS <FEFF4f7f75288fd94e9b8bbe5b9a521b5efa7684002000500044004600206587686353ef901a8fc7684c976262535370673a548c002000700072006f006f00660065007200208fdb884c9ad88d2891cf62535370300260a853ef4ee54f7f75280020004100630072006f0062006100740020548c002000410064006f00620065002000520065006100640065007200200035002e003000204ee553ca66f49ad87248672c676562535f00521b5efa768400200050004400460020658768633002>
+    /CHT <FEFF4f7f752890194e9b8a2d7f6e5efa7acb7684002000410064006f006200650020005000440046002065874ef653ef5728684c9762537088686a5f548c002000700072006f006f00660065007200204e0a73725f979ad854c18cea7684521753706548679c300260a853ef4ee54f7f75280020004100630072006f0062006100740020548c002000410064006f00620065002000520065006100640065007200200035002e003000204ee553ca66f49ad87248672c4f86958b555f5df25efa7acb76840020005000440046002065874ef63002>
+    /DAN <FEFF004200720075006700200069006e0064007300740069006c006c0069006e006700650072006e0065002000740069006c0020006100740020006f007000720065007400740065002000410064006f006200650020005000440046002d0064006f006b0075006d0065006e007400650072002000740069006c0020006b00760061006c00690074006500740073007500640073006b007200690076006e0069006e006700200065006c006c006500720020006b006f007200720065006b007400750072006c00e60073006e0069006e0067002e0020004400650020006f007000720065007400740065006400650020005000440046002d0064006f006b0075006d0065006e0074006500720020006b0061006e002000e50062006e00650073002000690020004100630072006f00620061007400200065006c006c006500720020004100630072006f006200610074002000520065006100640065007200200035002e00300020006f00670020006e0079006500720065002e>
+    /DEU <FEFF00560065007200770065006e00640065006e0020005300690065002000640069006500730065002000450069006e007300740065006c006c0075006e00670065006e0020007a0075006d002000450072007300740065006c006c0065006e00200076006f006e002000410064006f006200650020005000440046002d0044006f006b0075006d0065006e00740065006e002c00200076006f006e002000640065006e0065006e002000530069006500200068006f00630068007700650072007400690067006500200044007200750063006b006500200061007500660020004400650073006b0074006f0070002d0044007200750063006b00650072006e00200075006e0064002000500072006f006f0066002d00470065007200e400740065006e002000650072007a0065007500670065006e0020006d00f60063006800740065006e002e002000450072007300740065006c006c007400650020005000440046002d0044006f006b0075006d0065006e007400650020006b00f6006e006e0065006e0020006d006900740020004100630072006f00620061007400200075006e0064002000410064006f00620065002000520065006100640065007200200035002e00300020006f0064006500720020006800f600680065007200200067006500f600660066006e00650074002000770065007200640065006e002e>
+    /ESP <FEFF005500740069006c0069006300650020006500730074006100200063006f006e0066006900670075007200610063006900f3006e0020007000610072006100200063007200650061007200200064006f00630075006d0065006e0074006f0073002000640065002000410064006f0062006500200050004400460020007000610072006100200063006f006e00730065006700750069007200200069006d0070007200650073006900f3006e002000640065002000630061006c006900640061006400200065006e00200069006d0070007200650073006f0072006100730020006400650020006500730063007200690074006f00720069006f00200079002000680065007200720061006d00690065006e00740061007300200064006500200063006f00720072006500630063006900f3006e002e002000530065002000700075006500640065006e00200061006200720069007200200064006f00630075006d0065006e0074006f00730020005000440046002000630072006500610064006f007300200063006f006e0020004100630072006f006200610074002c002000410064006f00620065002000520065006100640065007200200035002e003000200079002000760065007200730069006f006e0065007300200070006f00730074006500720069006f007200650073002e>
+    /FRA <FEFF005500740069006c006900730065007a00200063006500730020006f007000740069006f006e00730020006100660069006e00200064006500200063007200e900650072002000640065007300200064006f00630075006d0065006e00740073002000410064006f00620065002000500044004600200070006f007500720020006400650073002000e90070007200650075007600650073002000650074002000640065007300200069006d007000720065007300730069006f006e00730020006400650020006800610075007400650020007100750061006c0069007400e90020007300750072002000640065007300200069006d007000720069006d0061006e0074006500730020006400650020006200750072006500610075002e0020004c0065007300200064006f00630075006d0065006e00740073002000500044004600200063007200e900e90073002000700065007500760065006e0074002000ea0074007200650020006f007500760065007200740073002000640061006e00730020004100630072006f006200610074002c002000610069006e00730069002000710075002700410064006f00620065002000520065006100640065007200200035002e0030002000650074002000760065007200730069006f006e007300200075006c007400e90072006900650075007200650073002e>
+    /ITA <FEFF005500740069006c0069007a007a006100720065002000710075006500730074006500200069006d0070006f007300740061007a0069006f006e00690020007000650072002000630072006500610072006500200064006f00630075006d0065006e00740069002000410064006f006200650020005000440046002000700065007200200075006e00610020007300740061006d007000610020006400690020007100750061006c0069007400e00020007300750020007300740061006d00700061006e0074006900200065002000700072006f006f0066006500720020006400650073006b0074006f0070002e0020004900200064006f00630075006d0065006e007400690020005000440046002000630072006500610074006900200070006f00730073006f006e006f0020006500730073006500720065002000610070006500720074006900200063006f006e0020004100630072006f00620061007400200065002000410064006f00620065002000520065006100640065007200200035002e003000200065002000760065007200730069006f006e006900200073007500630063006500730073006900760065002e>
+    /JPN <FEFF9ad854c18cea51fa529b7528002000410064006f0062006500200050004400460020658766f8306e4f5c6210306b4f7f75283057307e30593002537052376642306e753b8cea3092670059279650306b4fdd306430533068304c3067304d307e3059300230c730b930af30c830c330d730d730ea30f330bf3067306e53705237307e305f306f30d730eb30fc30d57528306b9069305730663044307e305930023053306e8a2d5b9a30674f5c62103055308c305f0020005000440046002030d530a130a430eb306f3001004100630072006f0062006100740020304a30883073002000410064006f00620065002000520065006100640065007200200035002e003000204ee5964d3067958b304f30533068304c3067304d307e30593002>
+    /KOR <FEFFc7740020c124c815c7440020c0acc6a9d558c5ec0020b370c2a4d06cd0d10020d504b9b0d1300020bc0f0020ad50c815ae30c5d0c11c0020ace0d488c9c8b85c0020c778c1c4d560002000410064006f0062006500200050004400460020bb38c11cb97c0020c791c131d569b2c8b2e4002e0020c774b807ac8c0020c791c131b41c00200050004400460020bb38c11cb2940020004100630072006f0062006100740020bc0f002000410064006f00620065002000520065006100640065007200200035002e00300020c774c0c1c5d0c11c0020c5f40020c2180020c788c2b5b2c8b2e4002e>
+    /NLD (Gebruik deze instellingen om Adobe PDF-documenten te maken voor kwaliteitsafdrukken op desktopprinters en proofers. De gemaakte PDF-documenten kunnen worden geopend met Acrobat en Adobe Reader 5.0 en hoger.)
+    /NOR <FEFF004200720075006b00200064006900730073006500200069006e006e007300740069006c006c0069006e00670065006e0065002000740069006c002000e50020006f0070007000720065007400740065002000410064006f006200650020005000440046002d0064006f006b0075006d0065006e00740065007200200066006f00720020007500740073006b00720069006600740020006100760020006800f800790020006b00760061006c00690074006500740020007000e500200062006f007200640073006b0072006900760065007200200065006c006c00650072002000700072006f006f006600650072002e0020005000440046002d0064006f006b0075006d0065006e00740065006e00650020006b0061006e002000e50070006e00650073002000690020004100630072006f00620061007400200065006c006c00650072002000410064006f00620065002000520065006100640065007200200035002e003000200065006c006c00650072002000730065006e006500720065002e>
+    /PTB <FEFF005500740069006c0069007a006500200065007300730061007300200063006f006e00660069006700750072006100e700f50065007300200064006500200066006f0072006d00610020006100200063007200690061007200200064006f00630075006d0065006e0074006f0073002000410064006f0062006500200050004400460020007000610072006100200069006d0070007200650073007300f5006500730020006400650020007100750061006c0069006400610064006500200065006d00200069006d00700072006500730073006f0072006100730020006400650073006b0074006f00700020006500200064006900730070006f00730069007400690076006f0073002000640065002000700072006f00760061002e0020004f007300200064006f00630075006d0065006e0074006f00730020005000440046002000630072006900610064006f007300200070006f00640065006d0020007300650072002000610062006500720074006f007300200063006f006d0020006f0020004100630072006f006200610074002000650020006f002000410064006f00620065002000520065006100640065007200200035002e0030002000650020007600650072007300f50065007300200070006f00730074006500720069006f007200650073002e>
+    /SUO <FEFF004b00e40079007400e40020006e00e40069007400e4002000610073006500740075006b007300690061002c0020006b0075006e0020006c0075006f0074002000410064006f0062006500200050004400460020002d0064006f006b0075006d0065006e007400740065006a00610020006c0061006100640075006b006100730074006100200074007900f6007000f60079007400e400740075006c006f0073007400750073007400610020006a00610020007600650064006f007300740075007300740061002000760061007200740065006e002e00200020004c0075006f0064007500740020005000440046002d0064006f006b0075006d0065006e00740069007400200076006f0069006400610061006e0020006100760061007400610020004100630072006f0062006100740069006c006c00610020006a0061002000410064006f00620065002000520065006100640065007200200035002e0030003a006c006c00610020006a006100200075007500640065006d006d0069006c006c0061002e>
+    /SVE <FEFF0041006e007600e4006e00640020006400650020006800e4007200200069006e0073007400e4006c006c006e0069006e006700610072006e00610020006f006d002000640075002000760069006c006c00200073006b006100700061002000410064006f006200650020005000440046002d0064006f006b0075006d0065006e00740020006600f600720020006b00760061006c00690074006500740073007500740073006b0072006900660074006500720020007000e5002000760061006e006c00690067006100200073006b0072006900760061007200650020006f006300680020006600f600720020006b006f007200720065006b007400750072002e002000200053006b006100700061006400650020005000440046002d0064006f006b0075006d0065006e00740020006b0061006e002000f600700070006e00610073002000690020004100630072006f0062006100740020006f00630068002000410064006f00620065002000520065006100640065007200200035002e00300020006f00630068002000730065006e006100720065002e>
+    /ENG ()
+    /ENU <FEFF005500730065002000740068006500730065002000730065007400740069006e0067007300200074006f0020006300720065006100740065002000410064006f00620065002000500044004600200064006f00630075006d0065006e0074007300200066006f00720020007100750061006c0069007400790020007000720069006e00740069006e00670020006f006e0020006400650073006b0074006f00700020007000720069006e007400650072007300200061006e0064002000700072006f006f0066006500720073002e002000200043007200650061007400650064002000500044004600200064006f00630075006d0065006e00740073002000630061006e0020006200650020006f00700065006e00650064002000770069007400680020004100630072006f00620061007400200061006e0064002000410064006f00620065002000520065006100640065007200200035002e003000200061006e00640020006c0061007400650072002e>
+  >>
+  /Namespace [
+    (Adobe)
+    (Common)
+    (1.0)
+  ]
+  /OtherNamespaces [
+    <<
+      /AsReaderSpreads false
+      /CropImagesToFrames true
+      /ErrorControl /WarnAndContinue
+      /FlattenerIgnoreSpreadOverrides false
+      /IncludeGuidesGrids false
+      /IncludeNonPrinting false
+      /IncludeSlug false
+      /Namespace [
+        (Adobe)
+        (InDesign)
+        (4.0)
+      ]
+      /OmitPlacedBitmaps false
+      /OmitPlacedEPS false
+      /OmitPlacedPDF false
+      /SimulateOverprint /Legacy
+    >>
+    <<
+      /AddBleedMarks false
+      /AddColorBars false
+      /AddCropMarks false
+      /AddPageInfo false
+      /AddRegMarks false
+      /ConvertColors /NoConversion
+      /DestinationProfileName ()
+      /DestinationProfileSelector /NA
+      /Downsample16BitImages true
+      /FlattenerPreset <<
+        /PresetSelector /MediumResolution
+      >>
+      /FormElements false
+      /GenerateStructure true
+      /IncludeBookmarks false
+      /IncludeHyperlinks false
+      /IncludeInteractive false
+      /IncludeLayers false
+      /IncludeProfiles true
+      /MultimediaHandling /UseObjectSettings
+      /Namespace [
+        (Adobe)
+        (CreativeSuite)
+        (2.0)
+      ]
+      /PDFXOutputIntentProfileSelector /NA
+      /PreserveEditing true
+      /UntaggedCMYKHandling /LeaveUntagged
+      /UntaggedRGBHandling /LeaveUntagged
+      /UseDocumentBleed false
+    >>
+  ]
+>> setdistillerparams
+<<
+  /HWResolution [600 600]
+  /PageSize [612.000 792.000]
+>> setpagedevice
+

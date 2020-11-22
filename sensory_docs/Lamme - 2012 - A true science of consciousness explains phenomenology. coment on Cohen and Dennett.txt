@@ -1,0 +1,277 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A true science of consciousness explains phenomenology: comment on Cohen and Dennett
+
+
+A true science of consciousness explains
+phenomenology: comment on Cohen and Dennett
+
+Johannes J. Fahrenfort1,2 and Victor A.F. Lamme1,2
+
+1Brain & Cognition, Department of Psychology, University of Amsterdam, Weesperplein 4, 1018 XA Amsterdam, The Netherlands
+2Cognitive Science Center Amsterdam (CSCA), University of Amsterdam, Plantage Muidergracht 22-24, 1018 TV Amsterdam,
+The Netherlands
+
+In their recent article in TiCS [1], Cohen and Dennett
+propose that consciousness is inextricably tied to one’s
+ability to report about the contents of experience (an
+‘access-only’ theory). They contrast this with theories that
+distinguish mechanisms that create the contents of expe-
+rience frommechanisms that allow one to report about this
+content (‘phenomenal-access’ theories). These they claim to
+be unfalsifiable, and therefore beyond the realm of science.
+We argue below that this assertion is wrong and based on a
+misguided belief about what a theory of consciousness
+needs to explain.
+
+Cohen and Dennett maintain that phenomenal-access
+theories are ‘dissociative’, as though these theories propose
+mechanisms of consciousness that are devoid of function.
+They seem to suggest that access itself is the function that
+needs to be explained. Hence, in their description of a
+
+‘perfect experiment’, access is the only test of whether
+something is experienced. However, their setup does not
+clarify how the contents of experience come about, and
+therefore by its very nature has no explanatory power. A
+real perfect experiment would provide the neural mecha-
+nisms that explain functional properties of consciousness
+(Figure 1).
+
+Suchmechanisms should be able to integrate contextual
+information across the visual field, making inferences
+about its input while resolving perceptual ambiguity. They
+should be able to dynamically group image elements to-
+gether, creating perceptual unity and perceptual organi-
+zation. It is well established that object features are
+represented by neurons with receptive fields that are too
+small to achieve such integration. So how could a distrib-
+uted network such as the brain achieve this? The theory of
+
+[(Figure_1)TD$FIG]
+
+Veridical:Perceived:
+
+Stimulus set 2.
+
+Stimulus set 3.
+
+BA
+
+A
+
+B
+
+Stimulus set 1.
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+TRENDS in Cognitive Sciences 
+
+Figure 1. The perfect experiment. During the extended checkerboard shadow illusion (stimulus set 1), the perceived color of surfaces and objects are dependent on the
+context in which they are presented. Even though the surfaces in A and B emit light with identical wavelengths, they have very different perceptual properties. Conversely,
+the apples seem to have the same color, whereas in fact apple B is much darker than apple A. During the Ponzo illusion (stimulus set 2), the bar in condition A is perceived to
+be longer than the bar in condition B, whereas in fact they are equal in size. During the Kanisza illusion (stimulus set 3), condition A induces the perception of a triangle lying
+on top of the inducers, whereas condition B lacks such surface perception. If, under a wide range of circumstances, one can establish neural mechanisms that are
+consistently tied to the perceptual (as opposed to the veridical) state of visual input, while in addition having functional properties that explain these states, then by current
+scientific standards, one may infer that these mechanisms are involved in generating the contents of experience. If these putative mechanisms (purple) remain when the
+neural mechanisms of access (green) are removed, one should conclude that consciousness without access exists. If consciousness critically depends on access, the
+hypothesis that perception without access exists is falsified.
+
+Corresponding author: Fahrenfort, J.J. (j.j.fahrenfort@uva.nl); Lamme, V.A.F. (v.a.f.lamme@uva.nl).
+
+Letters Trends in Cognitive Sciences March 2012, Vol. 16, No. 3
+
+138
+
+mailto:j.j.fahrenfort@uva.nl
+mailto:v.a.f.lamme@uva.nl
+
+
+local recurrency argues that neurons with receptive fields
+large enough to encapsulate entire objects, bind together
+features through recurrent interactions, subserving image
+segmentation and perceptual organization [2]. In the the-
+ory of coalitions of neurons [3], neurons engage in the
+formation of coalitions that represent unified percepts of
+otherwise distributed information. The functional property
+that these theories have in common can be loosely summed
+up as the ability to integrate or bind information across
+spatially separated sets of neurons to infer perceptual
+rather than physical attributes of visual stimuli [4,5].
+Phenomenal-access theories propose that this property
+explains key elements of conscious experience, as many
+observations show that it is characteristic of the emergence
+of phenomenology [2,6]. Importantly, perceptual organiza-
+tion does not require selective attention [6,7], but rather
+serves as input for it [8,9]. Thus, although access-only
+theories allege that representations are only phenomenal
+when reported, access itself does not seem to be involved in
+generating the contents of experience, and therefore it has
+little power to explain phenomenology [10].
+
+Now if it turns out that the neural mechanisms of
+perception established in our perfect experiment subside
+when their contents cannot be accessed- as when the green
+connections in Figure 1 are lesioned out as Cohen and
+Dennett propose- the idea of phenomenology without ac-
+cess would be falsified. In that case, and only then, access
+would need to be incorporated into theories of phenome-
+nology. If however, given the stimuli presented in Figure 1,
+these neuralmechanisms continue signaling the perceptual
+states corresponding to condition A and condition B, even
+though subjects are not able to report about them, the
+
+parsimonious account is to infer that perceptual states
+continue to exist without access. According to Cohen and
+Dennett however, these mechanisms can no longer be
+trusted to operate as previously established, only because
+the subject has lost his or her ability to report on them. If
+anything, rather than disproving the scientific validity of
+phenomenal-access theories, this step places ‘access-only’
+theories outside the realm of science.
+
+References
+1 Cohen, M.A. and Dennett, D.C. (2011) Consciousness cannot be
+
+separated from function. Trends Cogn. Sci. 15, 358–364
+2 Roelfsema, P.R. (2006) Cortical algorithms for perceptual grouping.
+
+Annu. Rev. Neurosci. 29, 203–227
+3 Crick, F. and Koch, C. (2003) A framework for consciousness. Nat.
+
+Neurosci. 6, 119–126
+4 Singer, W. and Gray, C.M. (1995) Visual feature integration and
+
+the Temporal Correlation Hypothesis. Annu. Rev. Neurosci. 18, 555–
+586
+
+5 Tononi, G. and Edelman, G.M. (1998) Consciousness and complexity.
+Science 282, 1846–1851
+
+6 Super, H. et al. (2001) Two distinct modes of sensory processing
+observed in monkey primary visual cortex (V1). Nat. Neurosci. 4,
+304–310
+
+7 Scholte, H.S. et al. (2006) The influence of inattention on the neural
+correlates of scene segmentation. Brain. Res. 1076, 106–115
+
+8 Qiu, F.T.T. et al. (2007) Figure-ground mechanisms provide structure
+for selective attention. Nat. Neurosci. 10, 1492–1499
+
+9 Roelfsema, P.R. et al. (2007) Different processing phases for features,
+figures, and selective attention in the primary visual cortex.Neuron 56,
+785–792
+
+10 Lamme, V.A.F. (2010) How neuroscience will change our view on
+consciousness. Cogn. Neurosci. 1, 204–220
+
+1364-6613/$ – see front matter ! 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.tics.2012.01.004 Trends in Cognitive Sciences, March 2012, Vol. 16, No. 3
+
+Response to Fahrenfort and Lamme: defining
+reportability, accessibility and sufficiency in conscious
+awareness
+
+Michael A. Cohen1 and Daniel C. Dennett2
+
+1Vision Sciences Laboratory, Department of Psychology, William James Hall, Harvard University, Cambridge, MA 02138, USA
+2Center for Cognitive Studies, Department of Philosophy, Tufts University, Medford, MA 02155, USA
+
+In their letter to TiCS [1], Fahrenfort and Lamme (F&L)
+bring up two issues in response to our position [2] that we
+address here.
+
+The first issue concerns the relationship between access
+and reportability. F&L write that we ‘propose that con-
+sciousness is inextricably tied to one’s ability to report about
+the contents of an experience’. Their criticism seems to rest
+on the belief that we claim that consciousness is tied to the
+ability to do things such as talk or press a button. This is not
+our view. If it were, it would clearly be wrong: information
+can be conscious yet verbally unreportable. Some patients
+with locked-in syndrome or who are in a persistent vegeta-
+
+tive statehavebeen identifiedas consciouseven though they
+cannot talk about their experiences. However, it must be
+stressed that these patients do still report their experiences
+by engaging in mental-imagery tasks during functional
+magnetic resonance imaging (fMRI) and it is these ‘reports’
+that allow clinicians to identify these patients as conscious
+[3–5]. What enables the willful modulation of mental imag-
+ery? The mechanisms of access: attention, memory, deci-
+sion-making, and so on. Without these mechanisms, a
+patient could not hold the instructions in memory, attend
+to thewordsbeing spokenover the sounds of the scannerand
+decide to imagine the stimuli that correspond with a pre-
+designated answer. Without these mechanisms, there
+would be no reason to believe that these patients are con-
+scious of anything at all.
+
+Corresponding author: Cohen, M.A. (michaelthecohen@gmail.com);
+Dennett, D.C. (daniel.dennett@tufts.edu).
+
+Letters Trends in Cognitive Sciences March 2012, Vol. 16, No. 3
+
+139
+
+http://dx.doi.org/10.1016/j.tics.2012.01.004
+mailto:michaelthecohen@gmail.com
+mailto:daniel.dennett@tufts.edu
+
+	A true science of consciousness explains phenomenology: comment on Cohen and Dennett
+	References
+
+
